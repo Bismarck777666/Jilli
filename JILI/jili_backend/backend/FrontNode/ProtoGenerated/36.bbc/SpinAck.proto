@@ -1,0 +1,66 @@
+syntax = "proto3";
+
+package Jili.Protocols.Bbc;
+
+message SpinAck {
+	PlateInfoBao PlateInfo = 1;
+	double TotalWin = 2;
+	int32 AckType = 3;
+	string ShowIndex = 4;
+	int32 skipType1 = 5;
+	int32 skipType2 = 6;
+	int32 skipType3 = 7;
+	int32 skipType4 = 8;
+	int32 skipType5 = 9;
+	int32 skipType6 = 10;
+	int32 skipType7 = 11;
+	double RTP = 12;
+	int32 LID = 13;
+	int32 RID = 14;
+}
+
+message PlateInfoBao {
+	repeated Column BaoPlateT = 1;
+	repeated int32 BaoEventPlate = 2;
+	repeated Award AwardInfos = 3;
+	int32 Scatters = 4;
+	int32 TotalWild = 5;
+	int32 TotalOdds = 6;
+	double MainWin = 7;
+	double FGWin = 8;
+	FreeGameData FreeGamePackage = 9;
+	double NowMoney = 10;
+	double LineBet = 11;
+}
+
+message Column {
+	repeated int32 Row = 1;
+}
+
+message Award {
+	int32 AwardLink = 1;
+	int32 AwardSymbol = 2;
+	int32 LineIndex = 3;
+	bool HasWild = 4;
+	int32 Odds = 5;
+}
+
+message FreeGameData {
+	repeated FreeGamePlateInfo FreeGamePlateInfo = 1;
+	double TotalPrize = 2;
+	int32 TotalFullWildCount = 3;
+	int32 Times = 4;
+	int32 MultiX = 5;
+}
+
+message FreeGamePlateInfo {
+	repeated Column PlateT = 1;
+	repeated int32 EventPlate = 2;
+	repeated Award AwardInfos = 3;
+	int32 FullWildCount = 4;
+	double AwardPrize = 5;
+	string ShowIndex = 6;
+	double NowMoney = 7;
+	int64 LogIndex = 8;
+	double LineBet = 9;
+}

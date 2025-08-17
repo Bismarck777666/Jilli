@@ -1,0 +1,87 @@
+syntax = "proto3";
+
+package Jili.Protocols.tph;
+
+message SpinAck {
+	MainPlate MainInfo = 1;
+	FreeData FreeInfo = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 7;
+	int32 LID = 8;
+	int32 RID = 9;
+}
+
+message MainPlate {
+	repeated Column Symbol = 1;
+	repeated AwardData AwardDataVec  = 2;
+	double PlateWin = 3;
+	double ScatterCount = 4;
+	int32 WheelType = 5;
+	double WheelWin = 6;
+	bool WheelGetFree = 7;
+	int32 WheelFGType = 8;
+	int32 AwardTypeFlag = 9;
+	double AllWin = 10;
+	bool MaxFlag = 11;
+}
+
+message FreeData{
+	FreePlate FreeStart = 1;
+	repeated FreePlate FreeQueue = 2;
+	double FreeTotalWin = 3;
+	int32 FianlChoose = 4;
+	bool MaxFlag = 5;
+}
+
+message FreePlate{
+	repeated Column Symbol = 1;
+	repeated Column Bound = 2;
+	int32 RoundNow =3;
+	int32 RoundTotal = 4;
+	int32 RoundPlus = 5;
+	repeated ShiftUpData Shift = 6;
+	repeated ExtendData Mega1Extend = 7;
+	repeated FreeAwardData LvMaxAwardDataVec = 8;
+	repeated FreeAwardData FinalAwardDataVec  = 9;
+	double LvWin = 10;
+	double FinalWin = 11;
+	int32 AwardTypeFlag = 12;
+	double AllWin =13;
+	bool MaxFlag = 14;
+}
+
+message Column{
+	repeated int32 Row = 1;
+}
+
+message FreeAwardData{
+	int32 Pos = 1;
+	double Mul = 2;
+	double Win = 3;
+	int32 WinType = 4;
+	int32 JPType = 5;
+}
+
+message ShiftUpData{
+	int32 Pos = 1;
+	int32 Target = 2;
+	int32 Upcount = 3;
+	int32 Src = 4;
+}
+
+message ExtendData{
+	int32 Pos = 1;
+	int32 ExtendType = 2;
+	repeated int32 ExtendPos = 3;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 LineNum = 3;
+	double Win = 4;
+	repeated int32 Pos = 5;
+}

@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+package Jili.Protocols.cbt2;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double BonusTotalWin = 2;
+	int32 BonusType = 3;
+	double TotalWin = 4;
+	int32 AckType = 5;
+	double RTP = 6;
+	int32 LID = 7;
+	int32 RID = 8;
+}
+
+message RoundInfo{
+	repeated Column Symbol= 1;
+	double Mult = 2;
+	double RoundWin = 3;
+	bool GetBonus = 4;
+	int32 BonusRound = 5;
+	repeated bool BonusLock = 6;
+	repeated double BonusMul = 7;
+	repeated double BonusNowMul = 8;
+	int32 AwardTypeFlag = 9;
+	int32 ReelType = 10;
+	bool IsMain = 11;
+	bool MaxFlag = 12;
+}
+
+
+message Column{
+	repeated int32 Row = 1;
+
+}

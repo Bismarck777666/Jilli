@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+package Jili.Protocols.Xiyangyang;
+
+message AllPlate {
+	repeated Plate Plate = 1;
+	int32 BonusType = 2;
+}
+
+message Plate {
+	repeated ColumnData Column = 1;
+	double Win = 2;
+}
+
+message ColumnData {
+	repeated Cell Row = 1;
+	bool IsChange = 2;
+}
+
+message Cell {
+	int32 Symbol = 1;
+	bool IsConnect = 2;
+	bool isChange = 3;
+}

@@ -1,0 +1,57 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+enum AckType{
+    spin = 0;
+    info = 1;
+    notice = 2;
+    logout = 3;
+    lastSpin = 4;
+    getBackPack = 5;
+    checkItem = 6;
+    getMail = 7;
+    readMail = 8;
+    getDailyMission = 9;
+    getNowMission = 10;
+    customAck = 11;
+    checkSignUpStatus = 12;
+    trialInfo = 14;
+    trialSignUp = 16;
+    trialGiveUp = 17;
+    getAllItemCanUse = 18;
+    vipSignInfo = 19;
+    vipSignReward = 20;
+    jpInfo = 21;
+    jpHistory = 22;
+    lotteryPlayerInfo = 23;
+    lotteryReward = 24;
+    fullJpInfo = 25;
+    fullJpHistory = 26;
+    fullJpInfoAll = 27;
+    debrisInfo = 29;
+    debrisPlayerInfo = 30;
+    debrisGet = 31;
+    debrisExchange = 32;
+    jpShowData = 33;
+    getPlayerLevel = 34;
+    unshow = 36;
+    spinend = 37;
+    mallinfo = 38;
+    giftcodeverify = 39;
+    giftcodecheckblock = 40;
+    freeAbandon = 41;
+    freeGetAll = 42;
+    freeGetHistory = 43;
+    freeBonusReward = 44;
+    buffGetBack = 45;
+    buffGetNow = 46;
+    buffUseReport = 47;
+    buffGetParam = 48;
+    getMission2 = 49;
+    jilijpHistory = 50;
+    jilijpSetting = 51;
+    jilijpRecentWin = 52;
+    freeGetAutoInfo = 53;
+    jilijpGameList = 54;
+}

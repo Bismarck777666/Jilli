@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message FullJpListResp{
+	double value = 1;
+    double full = 2;
+    uint32 minVip = 3;
+    double minBet = 4;    
+}

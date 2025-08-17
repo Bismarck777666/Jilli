@@ -1,0 +1,69 @@
+﻿slotgames{
+  actorsystem: "godgaming" #POPULATE NAME OF YOUR ACTOR SYSTEM HERE
+  database {
+		ip			= "192.168.88.40"
+		port		= 1433
+		user		= "sa" 
+		pass		= "123!@#"
+		dbname		= "gitslotjili_seamless"
+		poolcount	= 10
+  }
+  redis {
+		ip			= "127.0.0.1"
+		port		= 6379
+		password	= ""
+		database	= 3
+  }
+  seednodes = ["akka.tcp://godgaming@127.0.0.1:4055"]
+}
+
+akka {
+	loggers = ["Akka.Logger.NLog.NLogLogger, Akka.Logger.NLog"]
+	actor {
+		provider = cluster
+		deployment {            								
+			/gameManager {
+				router			= round-robin-pool
+				nr-of-instances = 1
+			}
+			/commServers {
+				router        = broadcast-group
+				routees.paths = ["/user/bootstrapper"]
+				cluster {
+					enabled				= on
+					allow-local-routees = off
+					use-role			= user
+				}
+			}
+			/spinDBReaders {
+				router	        = consistent-hashing-pool
+				nr-of-instances = 10
+			}
+			/redisWriter {
+				router 			= consistent-hashing-pool
+				nr-of-instances = 5
+			}
+			/apiWorker {
+				router	      = broadcast-group
+				routees.paths = ["/user/httpWorkers"]
+				cluster {
+					enabled				= on
+					allow-local-routees = off
+					use-role			= queenapi
+				}
+			}
+		}
+	}
+						
+	remote {
+		dot-netty.tcp {
+				hostname			= "127.0.0.1"
+				port				= 8082
+				maximum-frame-size	= 2048000b
+			}
+	}			
+
+	cluster {
+		roles = ["slotgame"]
+	}
+}

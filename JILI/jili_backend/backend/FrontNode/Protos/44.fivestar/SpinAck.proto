@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+package Jili.Protocols.fivestar;
+
+message SpinAck {
+	repeated Plate plate = 1;
+}
+
+message Plate {
+	repeated Row column = 1;
+	repeated AwardReel award = 2;
+	double win = 3;
+	bool isBonus = 4;
+	double diamondBonus = 5;
+	uint32 diamondCount = 6;
+	uint32 diamondStamp = 7;
+	uint32 awardStamp = 8;
+}
+
+message Row {
+	repeated int32 row = 1;
+}
+
+message AwardReel {
+	uint32 line = 1;
+	repeated Block block = 2;
+	double win = 3;
+	uint32 dir =4;
+	int32 symbol = 5;
+}
+
+message Block {
+	uint32 row = 1;
+	uint32 column = 2;
+}

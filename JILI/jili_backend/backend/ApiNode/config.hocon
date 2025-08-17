@@ -1,0 +1,49 @@
+﻿apinode{
+  actorsystem: "godgaming" #POPULATE NAME OF YOUR ACTOR SYSTEM HERE
+  http {
+		baseurl = "http://*:9881"
+  }
+  database {
+		ip			= "192.168.88.40"
+		port		= 1433
+		user		= "sa"
+		pass		= "123!@#"
+		dbname		= "gitslotjili_seamless"
+		poolcount	= 10
+  }
+  gameFront {
+		url			= "https://casino-wbgame.jilidemo.com"
+		tokenkey	= "fd973747b689447fb360c89f9612baa8"
+  }
+  gameBackend {
+		gs			= "uat-wbslot-fd.jilidemo1.com"
+		be			= "uat-wbwebapi.jilidemo2.com"
+  }
+
+}
+
+akka {
+	loggers = ["Akka.Logger.NLog.NLogLogger, Akka.Logger.NLog"]
+	actor {
+		provider = cluster
+		deployment {            											
+			/httpWorkers {
+				router 			= consistent-hashing-pool
+				nr-of-instances = 20
+			}
+		}
+	}
+						
+	remote {
+		dot-netty.tcp {
+				hostname = "127.0.0.1"
+				port     = 8094
+				maximum-frame-size = 2048000b
+			}
+	}			
+
+	cluster {
+		seed-nodes = ["akka.tcp://godgaming@127.0.0.1:4055"]
+		roles = ["queenapi"]
+	}
+}

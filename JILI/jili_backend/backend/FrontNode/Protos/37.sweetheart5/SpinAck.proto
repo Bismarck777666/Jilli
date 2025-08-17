@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+package Jili.Protocols.sweetheart5;
+
+message SpinAck {
+	repeated Plate plate = 1;
+}
+
+message Plate {
+	repeated ColumnData column = 1;
+	repeated AwardReel award = 2;
+	double win = 3;
+	int32 bonusSymbol = 4;
+	double bonusWin = 5;
+	uint32 bonusReelCount = 6;
+}
+
+message ColumnData {
+	repeated Cell row  = 1;
+}
+
+message Cell {
+	int32 symbol = 1;
+	double value = 2;
+	bool isConnect  =3;
+}
+
+message AwardReel {
+	int32 symbol = 1;
+	uint32 column = 2;
+	double win = 3;
+	uint32 count = 4;
+}

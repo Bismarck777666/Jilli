@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project\\GitSlot\\04_Temp\\Backend(GitSlotPark AmaticSeamless)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C93090C8-9017-4D26-8A69-B7C129A25618}|ApiNode\\ApiNode.csproj|f:\\project\\gitslot\\04_temp\\backend(gitslotpark amaticseamless)\\apinode\\agent\\agentactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93090C8-9017-4D26-8A69-B7C129A25618}|ApiNode\\ApiNode.csproj|solutionrelative:apinode\\agent\\agentactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93090C8-9017-4D26-8A69-B7C129A25618}|ApiNode\\ApiNode.csproj|f:\\project\\gitslot\\04_temp\\backend(gitslotpark amaticseamless)\\apinode\\config.hocon||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C93090C8-9017-4D26-8A69-B7C129A25618}|ApiNode\\ApiNode.csproj|solutionrelative:apinode\\config.hocon||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93090C8-9017-4D26-8A69-B7C129A25618}|ApiNode\\ApiNode.csproj|F:\\Project\\GitSlot\\04_Temp\\Backend(GitSlotPark AmaticSeamless)\\apinode\\bootstrapactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93090C8-9017-4D26-8A69-B7C129A25618}|ApiNode\\ApiNode.csproj|solutionrelative:apinode\\bootstrapactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentActor.cs",
+              "DocumentMoniker": "F:\\Project\\GitSlot\\04_Temp\\Backend(GitSlotPark AmaticSeamless)\\ApiNode\\Agent\\AgentActor.cs",
+              "RelativeDocumentMoniker": "ApiNode\\Agent\\AgentActor.cs",
+              "ToolTip": "F:\\Project\\GitSlot\\04_Temp\\Backend(GitSlotPark AmaticSeamless)\\ApiNode\\Agent\\AgentActor.cs",
+              "RelativeToolTip": "ApiNode\\Agent\\AgentActor.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAcwJgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:57:42.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.hocon",
+              "DocumentMoniker": "F:\\Project\\GitSlot\\04_Temp\\Backend(GitSlotPark AmaticSeamless)\\ApiNode\\config.hocon",
+              "RelativeDocumentMoniker": "ApiNode\\config.hocon",
+              "ToolTip": "F:\\Project\\GitSlot\\04_Temp\\Backend(GitSlotPark AmaticSeamless)\\ApiNode\\config.hocon",
+              "RelativeToolTip": "ApiNode\\config.hocon",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T14:37:57.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BootstrapActor.cs",
+              "DocumentMoniker": "F:\\Project\\GitSlot\\04_Temp\\Backend(GitSlotPark AmaticSeamless)\\ApiNode\\BootstrapActor.cs",
+              "RelativeDocumentMoniker": "ApiNode\\BootstrapActor.cs",
+              "ToolTip": "F:\\Project\\GitSlot\\04_Temp\\Backend(GitSlotPark AmaticSeamless)\\ApiNode\\BootstrapActor.cs",
+              "RelativeToolTip": "ApiNode\\BootstrapActor.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:35:23.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

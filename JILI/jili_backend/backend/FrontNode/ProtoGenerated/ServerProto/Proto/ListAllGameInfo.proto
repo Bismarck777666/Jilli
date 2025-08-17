@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message ListAllGameInfo
+{
+	int32 result = 1;
+	repeated ItemListData canuseitem = 2;
+}
+message ItemListData{
+	int32 gameid = 1;
+	int32 ownamount = 2;
+	int32 canamount = 3;
+	int32 minitemindex = 4;
+}

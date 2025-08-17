@@ -1,0 +1,68 @@
+syntax = "proto3";
+
+package Jili.Protocols.ms;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	bool IsFullEnd = 2;
+	bool Is8MedusaEnd = 3;
+	bool IsNew = 4;
+	int32 CardType = 5;
+	double MainWin = 6;
+	double FreeWin = 7;
+	double TotalWin = 8;
+	string ShowIndex = 9;
+	double NowMoney = 10;
+	int32 AckType = 11;
+	double RTP = 12;
+
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated ColumnFloat PlateSymbolNum = 2;
+	repeated AwardData AwardDataVec = 3;
+	double MedusaWin = 4;
+	double LineWin  =5;
+	double RoundWin = 6;
+	int32 AwardTypeFlag = 7;
+	int32 FreeRemainRound = 8;
+	repeated NumCollectData NumCollectPos = 9;
+	repeated Free1MedusaData Free1Medusa = 10;
+	double Free2Base = 11;
+	int32 LogMode = 12;
+	double Free1MedusaWin = 13;
+	double TrueRoundWin = 14;
+}
+
+
+message NumCollectData {
+	repeated Grid Target = 1;
+	repeated Grid Source = 2;
+}
+
+message Free1MedusaData{
+	int32 Num = 1;
+	Grid Grid = 2;
+}
+
+message Column{
+	repeated int32 Col = 1;
+}
+
+message ColumnFloat {
+	repeated double Col = 1;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 LineNum = 3;
+	double Win = 4;
+	repeated Grid GridVec = 5;
+}
+
+message Grid{
+	int32 Col = 1;
+	int32 Row = 2;
+}

@@ -1,0 +1,46 @@
+syntax = "proto3";
+
+package Jili.Protocols.phoenix;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double Bet = 7;
+	double RTP = 8;
+}
+
+message RoundInfo{
+	repeated ComboStageInfo ComboStageData = 1;
+	repeated AwardData AwardDataVec = 2;
+	double RoundWin = 3;
+	int32 AwardTypeFlag = 4;
+	int32 FreeRemainRound = 5;
+	bool MaxFlag = 6;
+}
+
+message ComboStageInfo{
+	repeated Column ComboStageSymbol  = 1;
+	repeated Column FillSymbols = 2;
+	int32 PlateHitSum = 3;
+	int32 PlateLevel = 4;
+	repeated int32 EliminatedPos = 5;
+	repeated AwardData TempAward = 6;
+	repeated int32 FGChange = 7;
+	repeated Column ComboStageSymbolChanged = 8;
+	bool MaxFlag = 9;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 LineNum = 3;
+	double Win = 4;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}

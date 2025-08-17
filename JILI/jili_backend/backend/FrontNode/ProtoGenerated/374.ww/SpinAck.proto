@@ -1,0 +1,82 @@
+syntax = "proto3";
+
+package Jili.Protocols.ww;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	int32 FreeType = 3;
+	double TotalWin = 4;
+	int32 AckType = 5;
+	double RTP = 6;
+	int32 LID = 7;
+	int32 RID = 8;
+}
+
+message RoundInfo{
+	repeated ComboStageInfo ComboStageData = 1;
+	double RoundWin = 2;
+	int32 MysterySymbol = 3;
+	int32 FreeNowRound = 4;
+	int32 FreeTotalRound = 5;
+	int32 ScatterCount = 6;
+	double ScatterWin = 7;
+	bool GambaleGet = 8;
+	int32 GambaleType = 9;
+	int32 GambaleNum = 10;
+	int32 AwardTypeFlag = 11;
+	int32 ReelType = 12;
+	bool IsMain = 13;
+	bool MaxFlag = 14;
+	repeated int32 PatternPos = 15;
+}
+
+message ComboStageInfo{
+	repeated Column ComboStageSymbol  = 1;
+	double ComboStageWin = 2;
+	double LinWin = 3;
+	repeated AwardData AwardDataVec = 4;
+	double GoldenWin  = 5;
+	repeated MusteryPack MysteryGolden = 6;
+}
+
+message Column{
+	repeated int32 Col = 1;
+
+}
+
+message AwardData{
+	int32 Index = 1;
+	int32 Symbol = 2;
+	int32 Count = 3;
+	double Win = 4;
+}
+
+message MusteryPack{
+	int32 GoldenType = 1;
+	repeated ColumnM CoinMul = 2;
+	repeated SSymbol Mult = 3;
+	repeated CcSymbol Collector = 4;
+	repeated SSymbol Cut = 5;
+}
+
+message ColumnM{
+	repeated double Colm = 1;
+}
+
+message SSymbol{
+	int32 Pos = 1;
+	double Mul = 2;
+}
+
+message CcSymbol{
+	int32 SrcPos = 1;
+	double Mul = 2;
+	repeated int32 CcPos  =3;
+}
+
+message CvSymbol {
+	int32 TargetSymbol = 1;
+	int32 SrcPos = 2;
+	repeated int32 CvPos = 3;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message NoticeInfo {
+	int32 type = 1;
+    double value = 2;
+    string message = 3;
+    bytes customData = 4;
+    int32 currencyNumber = 5;
+}

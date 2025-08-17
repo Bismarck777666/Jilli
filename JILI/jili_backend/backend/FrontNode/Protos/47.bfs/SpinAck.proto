@@ -1,0 +1,42 @@
+syntax = "proto3";
+
+package Jili.Protocols.Bfs;
+
+message SpinAck {
+	repeated SinglePlate AckQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 7;
+}
+
+message SinglePlate {
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataVec = 2;
+	int32 AwardTypeFlag = 3;
+	double Win = 4;
+	repeated AwardDataDetail MergedADV = 5;
+	int32 GetFreeCount = 6;
+	int32 FreeRemainRcound = 7;
+	int32 FreeNowRound = 8;
+	int32 FreeTotalRound = 9;
+	bool MaxFlag = 10;
+}
+
+message Column {
+	repeated int32 Row = 1;
+}
+
+message AwardData {
+	repeated int32 SerialVec = 1;
+	double Win = 2;
+}
+
+message AwardDataDetail {
+	repeated int32 SerialVec = 1;
+	double Win = 2;
+	int32 Symbol = 3;
+	int32 LineNum = 4;
+}

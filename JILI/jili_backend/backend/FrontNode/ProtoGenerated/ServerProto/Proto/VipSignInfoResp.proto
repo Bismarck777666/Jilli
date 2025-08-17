@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message VipSignInfoResp{
+	repeated Treasure TreasureList = 1;
+	google.protobuf.Timestamp ExpiredTime = 2;
+	int32 error = 3;
+}
+
+message Treasure{
+	string Index = 1;
+	int32 MinVip = 2;
+	double Exp = 3;
+	bool IsOpen = 4;
+}

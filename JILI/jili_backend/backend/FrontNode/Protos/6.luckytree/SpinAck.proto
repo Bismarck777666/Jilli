@@ -1,0 +1,58 @@
+syntax = "proto3";
+
+package Jili.Protocols.Luckytree;
+
+message SpinAck {
+	PlateData PlateData = 1;
+	BonusGameData BonusGameData = 2;
+	FreeGameData FreeGameData = 3;
+	double TotalWin = 4;
+	int32 AwardType = 5;
+	string ShowIndex = 6;
+	double NowMoney = 7;
+	int32 AckType = 8;
+	double RTP = 9;
+	int32 LID = 10;
+	int32 RID = 11;
+	bool MaxFlag = 12;
+}
+
+message PlateData {
+	repeated int32 HitPosVec = 1;
+	repeated int32 LuckyTreeVec = 2;
+	repeated Award AwardVec = 3;
+	repeated int32 Plate = 4;
+	double WinMoney = 5;
+	int32 AwardTypeFlag = 6;
+	int32 FreeGameTime = 7;
+}
+
+message Award {
+	int32 AwardTypeFlag = 1;
+	int32 AwardSymbol = 2;
+	int32 AwardLine = 3;
+	double Win = 4;
+}
+
+message BonusGameData {
+	int32 TotalRound = 1;
+	double Bet = 2;
+	repeated BonusHitRecord HitRecord = 3;
+	repeated int32 Other = 4;
+	double TotalWin = 5;
+	repeated int32 HitCount = 6;
+	repeated double HitCountWin = 7;
+}
+
+message BonusHitRecord {
+	int32 Sym = 1;
+	int32 HitCount = 2;
+}
+
+message FreeGameData {
+	repeated PlateData PlateDataVec = 1;
+	double TotalWin = 2;
+	int32 TotalTimes = 3;
+	int32 BeginTimes = 4;
+
+}

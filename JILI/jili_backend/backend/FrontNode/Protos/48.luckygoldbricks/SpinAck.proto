@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package Jili.Protocols.luckygoldbricks;
+
+message SpinAck {
+	repeated Plate plate = 1;
+	repeated JpCurrency jp =  2;
+}
+
+message Plate {
+	repeated ColumnData column = 1;
+	double win = 2;
+	BonusInfo gold = 3;
+}
+
+message JpCurrency {
+	int32 currency = 1;
+	repeated JpInfo info = 2;
+}
+
+message JpInfo {
+	int32 type = 1;
+	double value = 2;
+}
+
+message BonusInfo {
+	double barWin = 1;
+	int64  count = 2;
+	repeated double gold = 3;
+}
+
+message ColumnData {
+	repeated Cell row = 1;
+}
+
+message Cell {
+	int32 symbol = 1;
+	bool isConnect = 2;
+}

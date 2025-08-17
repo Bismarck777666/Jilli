@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message MailInfo{
+	int32 result = 1;
+	repeated Maildata usermailackdata = 2;
+	int32 isread = 3;
+}
+
+message Maildata{
+	int32 idx = 1;
+	int32 accountid = 2;
+	int32 source = 3;
+	Content content = 4;
+	int32 isread = 5;
+	string createtime = 6;
+	int64 created = 7;
+}
+
+message Content{
+	int32 action = 1;
+	int32 gameid = 2;
+	int32 itemid = 3;
+	double amount = 4;
+	string createtime = 5;
+	int32 wintype = 6;
+	string msg = 7;
+	int32 star = 8;
+}

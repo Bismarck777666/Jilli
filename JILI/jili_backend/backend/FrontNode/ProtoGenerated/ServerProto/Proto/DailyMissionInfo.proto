@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message DailyMissionInfo
+{
+	string message = 1;
+	bytes messageb = 2;
+	bytes list = 3;
+}

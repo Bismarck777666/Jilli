@@ -1,0 +1,62 @@
+﻿syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+import "freeSpinList.proto";
+
+package Jili.Protocols.Common;
+
+message SpinResponse {
+  bytes data = 1;
+  ServiceData service = 2;
+  double totalWin = 3;
+  int64 roundIndex = 4;
+  int32 skipField = 5;
+  double postMoney = 6;
+  int32 StartRound = 7;
+  bool hasspin = 8;
+  int32 BDType = 9;
+  int32 BBTimes = 10;
+  double MallBet = 11;
+  double AccuMallBet = 12;
+  int32 ItemID = 13;
+  int32 ItemIcon = 14;
+  int32 ItemAmount = 15;
+  double BaseBet = 16;
+  double RealBet = 17;
+  int32 SpinType = 18;
+  int32 ItemLevel = 19;
+  int64 roundIndexV2 = 20;
+  double GameMallBet = 21;
+  int32 GameMallType = 22;
+}
+
+message ServiceData{
+	uint32 missionReward = 1;
+	int32 jpType = 2;
+	double jpWin = 3;
+	double fullJpWin = 4;
+	int32 trialfinish = 5;
+	int32 trialaward = 6;
+	int32 freeremain = 7;
+	bytes cardlist = 8;
+	bytes buff = 9;
+	int32 skipField1 = 10;
+	int32 skipField2 = 11;
+	int32 skipField3 = 12;
+	bytes missionlist = 13;
+	int32 skipField4 = 14;
+	freeSpinList freeRemainV2 = 15;
+	bytes mission2 = 16;
+	JiliJpOpen jiliJpOpen = 17;
+}
+
+message JiliJpOpen{
+	int32 id = 1;
+	uint32 gameID = 2;
+	int64 accountID = 3;
+	string name = 4;
+	int32 jpType = 5;
+	double win = 6;
+	google.protobuf.Timestamp createTime = 7;
+	double odds = 8;
+}

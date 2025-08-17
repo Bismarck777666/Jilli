@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+package Jili.Protocols.Tks;
+
+message SpinAck {
+	repeated int32 Plate = 1;
+	AwardData AwardData = 2;
+	double MGWin = 3;
+	repeated FreeGameData FreeGamePackage = 4;
+	bool NowMode = 5;
+	bool IsHighRateMode = 6;
+	int32 GameType = 7;
+	double TotalWin = 8;
+	int32 AwardType = 9;
+	string ShowIndex = 10;
+	double NowMoney = 11;
+	int32 AckType = 12;
+	double RTP = 13;
+	int32 LID = 14;
+	int32 RID = 15;
+}
+
+message AwardData {
+	repeated Award Award = 1;
+	double AwardPrize = 2;
+	bool IsFreeGame = 3;
+}
+
+message Award {
+	int32 AwardMode = 1;
+	int32 AwardItem = 2;
+	int32 Side = 3;
+	int32 LineIndex = 4;
+	double Odds = 5;
+}
+
+message FreeGameData {
+	repeated FreeGamePlateInfo FreeGamePlateInfo = 1;
+	double TotalPrize = 2;
+	int32 Times = 3;
+	int32 BeginTimes = 4;
+	bool PackageFinish = 5;
+	string LogIndex = 6;
+	string ShowIndex = 7;
+}
+
+message FreeGamePlateInfo {
+	repeated int32 Plate = 1;
+	AwardData AwardData = 2;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "NoticeInfo.proto";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+
+message NoticeResponse{
+	repeated NoticeInfo notice = 1;
+	string Stamp = 2;
+}

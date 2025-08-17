@@ -1,0 +1,81 @@
+syntax = "proto3";
+
+package Jili.Protocols.lbingo;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	double FeatureBet = 4;
+	int32 FeaturePos = 5;
+	string ShowIndex = 6;
+	double NowMoney= 7;
+	int32 AckType = 8;
+	BingoSetVec BingoSet = 9;
+	BingoSetClient LastInfo = 10;
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated CoinValue CoinChange = 2;
+	repeated CoinValue FreeCoin = 3;
+	repeated CoinValue BingoInit = 4;
+	repeated AwardData AwardDataVec = 5;
+	repeated BonusAward Bonus = 6;
+	int32 AwardTypeFlag = 7;
+	int32 FreeRemainRound = 8;
+	double WildMult = 9;
+	double BingoWin = 10;
+	double ScatterWin = 11;
+	double LineWin = 12;
+	double RoundWin = 13;
+	double JPWin = 14;
+	repeated BingoGridColumn BingoPlate = 15;
+	repeated BingoGridColumn BingoPlateMax = 16;
+
+}
+
+message Column{
+	repeated int32 Col = 1;
+}
+
+message BingoSetVec {
+	double Bet = 1;
+	bool IsNeedSave =  2;
+	repeated BingoGridColumn BingoPlate = 3;
+	repeated BingoGridColumn BingoPlateMax = 4;
+}
+
+message BonusAward{
+	double JPIndex = 1;
+	double Value = 2;
+}
+
+message CoinValue {
+	int32 CoinState = 1;
+	double Value = 2;
+	int32 Position = 3;
+	int32 Expand = 4;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+}
+
+message BingoGridColumn {
+	repeated BingoGrid BGC = 1;
+}
+
+message BingoGrid {
+	int32 CoinState = 1;
+	double Value = 2;
+}
+
+message BingoSetClient {
+	double Bet = 1;
+	repeated CoinValue Coins = 2;
+}
+

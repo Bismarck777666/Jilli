@@ -1,0 +1,63 @@
+syntax = "proto3";
+
+package Jili.Protocols.Tcb;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double Bet = 2;
+	double FreeTotalWin = 3;
+	double TotalWin = 4;
+	double RTP = 5;
+	int32 GameType = 6;
+	repeated int32 CrackLevels = 7;
+}
+
+message RoundInfo{
+	repeated PlateSymbolData PlateSymbol = 1;
+	repeated PlateNumData PlateNum = 2;
+	repeated AwardDataVecData AwardDataVec = 3;
+	int32 Collected = 4;
+	int32 GoldLevel = 5;
+	repeated Column GoldPos = 6;
+	repeated double CollectWin = 7;
+	repeated double LineWin = 8;
+	int32 FreeRemainRound = 9;
+	int32 FreeTotalRound = 10;
+	int32 FreeNowRound = 11;
+	int32 AddRounds = 12;
+	int32 AwardTypeFlag = 13;
+	double RoundWin = 14;
+	repeated int32 AddCrackLv = 15;
+	bool MaxFlag = 16;
+}
+
+message PlateSymbolData{
+	repeated Column PSD = 1;
+}
+
+message PlateNumData{
+	repeated ColumnFloat PND = 2;
+}
+
+message Column {
+    repeated int32 Col = 1;
+}
+
+message ColumnFloat{
+	repeated double Col = 1;
+}
+
+message AwardDataVecData{
+	repeated AwardData ADV = 1;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line= 3;
+	double Mult = 4;
+	double Win = 5;
+}
+
+
+

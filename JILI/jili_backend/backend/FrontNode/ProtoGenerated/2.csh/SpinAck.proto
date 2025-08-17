@@ -1,0 +1,49 @@
+﻿syntax = "proto3";
+
+package Jili.Protocols.Csh;
+
+message SpinAck {
+	repeated SinglePlate AckVec = 1;
+	double MGWin = 2;
+	double FGWin = 3;
+	double TotalWin = 4;
+	string ShowIndex = 5;
+	double NowMoney = 6;
+	int32 AckType = 7;
+	double RTP = 8;
+	int32 LID = 9;
+	int32 RID = 10;
+}
+
+message SinglePlate {
+	repeated AwardDetail AwardVec = 1;
+	repeated Column PlateVec = 2;
+	repeated Column ColumnSymbol = 3;
+	int32 AwardTypeFlag = 4;
+	int32 RemainRound = 5;
+	int32 ExtraRound = 6;
+	int32 ExtraOdds = 7;
+}
+
+message AwardDetail {
+	repeated AwardData AwardSet = 1;
+	int32 skipField = 2;
+	double AwardMoney = 3;
+}
+
+message AwardData {
+	int32 AwardSymbol = 1;
+	repeated Grid AwardGridVec = 2;
+	double AwardMoney = 3;
+	int32 SymbolCount = 4;
+	int32 Lines = 5;
+	bool ContainWild = 6;
+}
+
+message Grid {
+	int32 Column = 1;
+	int32 Row = 2;
+}
+message Column {
+	repeated int32 Row = 1;
+}

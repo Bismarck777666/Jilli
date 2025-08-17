@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+package Jili.Protocols.fullhouse3;
+
+message SpinAck{
+	repeated Plate plate = 1;
+}
+
+message Plate{
+	repeated ColumnData column = 1;
+	repeated Combo combo = 2;
+	double win = 3;
+	bool isBonus = 4;
+	uint32 totalFreeSpin = 5;
+}
+
+message ColumnData {
+	repeated int32 row = 1;
+	repeated uint32 isGold = 2;
+}
+
+message Combo{
+	repeated Cell change = 1;
+	repeated AwardReel award = 2;
+	double win = 3;
+	uint32 comboBonus = 4;
+	repeated Cell extraChange = 5;
+	repeated Block goldReplace = 6;
+	repeated int32 bigGoldCount = 7;
+}
+
+message Cell{
+	int32 symbol = 1;
+	uint32 row = 2;
+	uint32 column = 3;
+	uint32 isGold  =4;
+}
+
+message AwardReel{
+	int32 symbol = 1;
+	repeated Block block = 2;
+	double win = 3;
+}
+
+message Block{
+	uint32 row = 1;
+	uint32 column = 2;
+}

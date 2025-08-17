@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package Jili.Protocols.Mcp2;
+
+message SpinAck {
+	repeated SinglePlate PlateSymbol = 1;
+	repeated SinglePlate PlateWinUp = 2;
+	double MainWin = 3;
+	double ReSpinWin = 4;
+	double WheelWin = 5;
+	double TotalWin = 6;
+	int32 ShowType = 7;
+	int32 AckType = 8;
+	double RTP = 9;
+	int32 LID = 10;
+	int32 RID = 11;
+}
+
+message SinglePlate {
+	repeated int32 Symbol = 1;
+}

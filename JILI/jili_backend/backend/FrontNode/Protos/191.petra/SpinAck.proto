@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package Jili.Protocols.Petra;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 7;
+	double Bet = 8;
+}
+
+message RoundInfo {
+	repeated ComboStageInfo ComboStageData = 1;
+	double RoundWin = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	int32 FreeTotalRound = 5;
+	int32 AddRounds = 6;
+	bool MaxFlag = 7;
+}
+
+message ComboStageInfo {
+	repeated Column ComboStageSymbol = 1;
+	double ComboStageWin = 2;
+	double ComboStageMult = 3;
+	repeated AwardData AwardDataVec = 4;
+	repeated int32 HitSlatePosVec = 5;
+	repeated Column FillSymbols = 6;
+	repeated Column ChangeSymbols = 7;
+	int32 AddRounds = 8;
+	int32 AddMults = 9;
+	repeated int32 FGChange = 10;
+	repeated int32 Holy = 11;
+	int32 FGChangeSymbol = 12;
+	repeated Column ComboStageSymbolLog = 13;
+	bool MaxFlag = 14;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 LineNum = 3;
+	double Win = 4;
+	repeated int32 PosVec = 5;
+}

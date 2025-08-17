@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+package Jili.Protocols.cai;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double TotalWin = 2;
+	string ShowIndex = 3;
+	double NowMoney = 4;
+	int32 AckType = 5;
+	double RTP = 6;
+	int32 Extra = 7;
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated int32 WildColumnMult = 2;
+	double RoundWin = 3;
+	int32 AwardTypeFlag = 4;
+	repeated AwardData AwardDataVec = 5;
+	int32 DisplayID = 6;
+	bool MaxFlag = 7;
+}
+
+message Column{
+	repeated int32 Row = 1;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+}

@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+package Jili.Protocols.Bby;
+
+message SpinAck {
+	SinglePlate MainGame = 1;
+	BonusData BonusGame = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 7;
+	double LID = 8;
+	int32 RID = 9;
+}
+
+message SinglePlate {
+	repeated Column Symbol = 1;
+	repeated ColumnF Bonus = 2;
+	repeated AwardData AwardDataVec = 3;
+	double SingleWin =  4;
+	int32 BonusCount = 5;
+	double BonusWin = 6;
+	int32 BonusRemain = 7;
+	int32 BonusRow = 8;
+	int32 AwardTypeFlag = 9;
+	double NowMoney = 10;
+}
+
+message Column {
+	repeated int32 Row = 1;
+}
+
+message ColumnF {
+	repeated double RowF = 2;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 LineNum = 3;
+	double Win = 4;
+}
+
+message BonusData {
+	repeated SinglePlate BonusQueue = 1;
+	double BonusTotalWin = 2;
+}

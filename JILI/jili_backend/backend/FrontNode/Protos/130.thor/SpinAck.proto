@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+package Jili.Protocols.thor;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	BonusGameInfoArray BonusInfo = 3;
+	repeated double BonusTotalWin = 4;
+	double TotalWin = 5;
+}
+
+message BonusGameInfoArray {
+	repeated BonusGameInfo Array = 1;
+}
+
+message BonusGameInfo {
+	int32 Symbol = 1;
+	int32 Result = 2;
+	double Win = 3;
+	int32 HealthPoint = 4;
+	bool MaxFlag = 5;
+}
+
+message RoundInfo{
+	repeated ComboStageInfo ComboStageData = 1;
+	double RoundWin = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	bool BonusFlag = 5;
+	bool MaxFlag = 6;
+}
+
+message ComboStageInfo {
+	repeated Column ComboStageSymbol = 1;
+	double ComboStageWin = 2;
+	repeated AwardData AwardDataVec = 3;
+	repeated Column FillSymbols = 4;
+	bool BonusHit = 5;
+	bool MaxFlag = 6;
+}
+
+message Column{
+	repeated int32 Col = 1;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+}

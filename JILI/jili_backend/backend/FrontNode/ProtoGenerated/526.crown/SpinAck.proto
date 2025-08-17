@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+package Jili.Protocols.crown;
+
+message SpinAck {
+	repeated Column PlateSymbol = 1;
+	repeated Column PlateSymbolLog = 2;
+	repeated int32 Bonus = 3;
+	repeated int32 BonusHitSymbol = 4;
+	repeated AwardData AwardDataVec = 5;
+	int32 AwardTypeFlag = 6;
+	double LineWin = 7;
+	double ScatterWin = 8;
+	double BonusWin =9;
+	double TotalWin = 10;
+	double RTP = 11;
+	bool MaxFlag = 12;
+}
+
+message Column {
+	repeated int32 Column = 1;
+}
+
+message AwardData {
+	int32 Symbol  = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+}

@@ -1,0 +1,1408 @@
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\config.hocon
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\NLog.config
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\ApiNode.exe.config
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\ApiNode.exe
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\ApiNode.pdb
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Akka.Cluster.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Akka.Coordination.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Akka.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Akka.Logger.NLog.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Akka.Remote.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\BrakePedal.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\DotNetty.Buffers.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\DotNetty.Codecs.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\DotNetty.Common.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\DotNetty.Handlers.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\DotNetty.Transport.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\GITProtocol.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Google.Protobuf.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Owin.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Newtonsoft.Json.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\NLog.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Owin.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\StackExchange.Redis.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Buffers.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Collections.Immutable.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.IO.Pipelines.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Memory.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Net.Http.Formatting.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Numerics.Vectors.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Security.AccessControl.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Security.Permissions.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Text.Encodings.Web.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Threading.Channels.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Web.Cors.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Web.Http.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Web.Http.Owin.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Topshelf.dll
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\GITProtocol.pdb
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Akka.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Akka.Cluster.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Akka.Coordination.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Akka.Logger.NLog.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Akka.Remote.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\DotNetty.Buffers.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\DotNetty.Codecs.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\DotNetty.Common.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\DotNetty.Handlers.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\DotNetty.Transport.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Google.Protobuf.pdb
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Google.Protobuf.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Owin.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Newtonsoft.Json.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\NLog.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\StackExchange.Redis.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Buffers.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Collections.Immutable.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.IO.Pipelines.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Memory.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Net.Http.Formatting.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Numerics.Vectors.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Security.AccessControl.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Security.Permissions.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Text.Encodings.Web.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Threading.Channels.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Web.Http.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\System.Web.Http.Owin.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\bin\Debug\Topshelf.xml
+E:\Jobs\Backend(KSlot)\QueenApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+E:\Jobs\Backend(KSlot)\QueenApiNode\obj\Debug\ApiNode.csproj.SuggestedBindingRedirects.cache
+E:\Jobs\Backend(KSlot)\QueenApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+E:\Jobs\Backend(KSlot)\QueenApiNode\obj\Debug\ApiNode.csproj.CopyComplete
+E:\Jobs\Backend(KSlot)\QueenApiNode\obj\Debug\ApiNode.exe
+E:\Jobs\Backend(KSlot)\QueenApiNode\obj\Debug\ApiNode.pdb
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\config.hocon
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\NLog.config
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\ApiNode.exe.config
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\ApiNode.exe
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\ApiNode.pdb
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Akka.Cluster.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Akka.Coordination.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Akka.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Akka.Logger.NLog.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Akka.Remote.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\BrakePedal.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\DotNetty.Buffers.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\DotNetty.Codecs.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\DotNetty.Common.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\DotNetty.Handlers.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\DotNetty.Transport.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\GITProtocol.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Google.Protobuf.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Owin.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Newtonsoft.Json.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\NLog.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Owin.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\StackExchange.Redis.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Buffers.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Collections.Immutable.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.IO.Pipelines.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Memory.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Net.Http.Formatting.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Numerics.Vectors.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Security.AccessControl.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Security.Permissions.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Text.Encodings.Web.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Threading.Channels.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Web.Cors.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Web.Http.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Web.Http.Owin.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Topshelf.dll
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\GITProtocol.pdb
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Akka.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Akka.Cluster.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Akka.Coordination.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Akka.Logger.NLog.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Akka.Remote.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\DotNetty.Buffers.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\DotNetty.Codecs.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\DotNetty.Common.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\DotNetty.Handlers.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\DotNetty.Transport.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Google.Protobuf.pdb
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Google.Protobuf.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Owin.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Newtonsoft.Json.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\NLog.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\StackExchange.Redis.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Buffers.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Collections.Immutable.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.IO.Pipelines.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Memory.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Net.Http.Formatting.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Numerics.Vectors.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Security.AccessControl.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Security.Permissions.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Text.Encodings.Web.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Threading.Channels.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Web.Http.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\System.Web.Http.Owin.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\bin\Debug\Topshelf.xml
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\obj\Debug\ApiNode.csproj.SuggestedBindingRedirects.cache
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\obj\Debug\ApiNode.csproj.CopyComplete
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\obj\Debug\ApiNode.exe
+E:\Jobs\Backend(GitSlotPark)\QueenApiNode\obj\Debug\ApiNode.pdb
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\obj\Debug\ApiNode.csproj.SuggestedBindingRedirects.cache
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\obj\Debug\ApiNode.exe
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\obj\Debug\ApiNode.pdb
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\config.hocon
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\NLog.config
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\ApiNode.exe.config
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\ApiNode.exe
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\ApiNode.pdb
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Akka.Cluster.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Akka.Coordination.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Akka.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Akka.Remote.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\BrakePedal.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\DotNetty.Buffers.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\DotNetty.Codecs.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\DotNetty.Common.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\DotNetty.Handlers.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\DotNetty.Transport.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\GITProtocol.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Google.Protobuf.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Owin.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Newtonsoft.Json.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\NLog.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Owin.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\StackExchange.Redis.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Buffers.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Collections.Immutable.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.IO.Pipelines.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Memory.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Security.AccessControl.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Security.Permissions.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Threading.Channels.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Web.Cors.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Web.Http.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Topshelf.dll
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\GITProtocol.pdb
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Akka.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Akka.Cluster.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Akka.Coordination.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Akka.Remote.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\DotNetty.Buffers.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\DotNetty.Codecs.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\DotNetty.Common.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\DotNetty.Handlers.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\DotNetty.Transport.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Google.Protobuf.pdb
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Google.Protobuf.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Owin.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Newtonsoft.Json.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\NLog.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\StackExchange.Redis.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Buffers.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Collections.Immutable.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.IO.Pipelines.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Memory.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Security.AccessControl.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Security.Permissions.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Threading.Channels.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Web.Http.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Topshelf.xml
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\obj\Debug\ApiNode.csproj.CopyComplete
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Chipset\chipset(EUR).info
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Chipset\chipset(INR).info
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Chipset\chipset(TND).info
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Chipset\chipset(TRY).info
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Chipset\chipset(USD).info
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Chipset\chipset(BRL).info
+E:\Jobs\Backend(GitSlotPark Seamless)\ApiNode\bin\Debug\Chipset\chipset(MAD).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(BRL).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(EUR).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(INR).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(MAD).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(TND).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(TRY).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(USD).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\config.hocon
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\NLog.config
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\ApiNode.exe.config
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\ApiNode.exe
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\ApiNode.pdb
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Akka.Cluster.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Akka.Coordination.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Akka.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Akka.Remote.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\BrakePedal.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\DotNetty.Buffers.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\DotNetty.Codecs.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\DotNetty.Common.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\DotNetty.Handlers.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\DotNetty.Transport.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\GITProtocol.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Google.Protobuf.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Owin.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Newtonsoft.Json.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\NLog.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Owin.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\StackExchange.Redis.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Buffers.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Collections.Immutable.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.IO.Pipelines.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Memory.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Security.AccessControl.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Security.Permissions.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Threading.Channels.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Web.Cors.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Web.Http.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Topshelf.dll
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\GITProtocol.pdb
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Akka.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Akka.Cluster.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Akka.Coordination.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Akka.Remote.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\DotNetty.Buffers.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\DotNetty.Codecs.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\DotNetty.Common.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\DotNetty.Handlers.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\DotNetty.Transport.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Google.Protobuf.pdb
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Google.Protobuf.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Owin.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Newtonsoft.Json.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\NLog.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\StackExchange.Redis.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Buffers.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Collections.Immutable.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.IO.Pipelines.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Memory.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Security.AccessControl.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Security.Permissions.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Threading.Channels.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Web.Http.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Topshelf.xml
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\obj\Debug\ApiNode.csproj.CopyComplete
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\obj\Debug\ApiNode.exe
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\obj\Debug\ApiNode.pdb
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(AUD).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(CHF).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(IDR).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(NOK).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(THB).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(MYR).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(NGN).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(TVD).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(XOF).info
+E:\Jobs\Backend(GitSlotPark Seamless2)\ApiNode\bin\Debug\Chipset\chipset(RUB).info
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.exe
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\config.hocon
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\NLog.config
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\ApiNode.exe.config
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\ApiNode.exe
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\ApiNode.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Cluster.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Coordination.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Remote.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\BrakePedal.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Buffers.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Codecs.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Common.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Handlers.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Transport.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\GITProtocol.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Google.Protobuf.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Newtonsoft.Json.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\NLog.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Owin.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\StackExchange.Redis.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Buffers.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Collections.Immutable.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.IO.Pipelines.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Memory.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.AccessControl.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Permissions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Channels.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Cors.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Topshelf.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\GITProtocol.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Cluster.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Coordination.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Remote.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Buffers.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Codecs.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Common.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Handlers.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Transport.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Google.Protobuf.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Google.Protobuf.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Newtonsoft.Json.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\NLog.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\StackExchange.Redis.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Buffers.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Collections.Immutable.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.IO.Pipelines.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Memory.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.AccessControl.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Permissions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Channels.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Topshelf.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.csproj.Up2Date
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\config.hocon
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\NLog.config
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\ApiNode.exe.config
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\ApiNode.exe
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\ApiNode.pdb
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Cluster.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Coordination.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Remote.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\BrakePedal.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Buffers.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Codecs.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Common.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Handlers.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Transport.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\GITProtocol.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Google.Protobuf.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Newtonsoft.Json.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\NLog.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Owin.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\StackExchange.Redis.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Buffers.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Collections.Immutable.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.IO.Pipelines.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Memory.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.AccessControl.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Permissions.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Channels.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Cors.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Topshelf.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\GITProtocol.pdb
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Cluster.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Coordination.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Remote.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Buffers.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Codecs.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Common.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Handlers.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Transport.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Google.Protobuf.pdb
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Google.Protobuf.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Newtonsoft.Json.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\NLog.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\StackExchange.Redis.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Buffers.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Collections.Immutable.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.IO.Pipelines.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Memory.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.AccessControl.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Permissions.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Channels.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Topshelf.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.csproj.Up2Date
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.exe
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.pdb
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\config.hocon
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\NLog.config
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\ApiNode.exe.config
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\ApiNode.exe
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\ApiNode.pdb
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Cluster.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Coordination.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Remote.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\BrakePedal.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Buffers.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Codecs.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Common.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Handlers.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Transport.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\GITProtocol.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Google.Protobuf.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Newtonsoft.Json.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\NLog.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Owin.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\StackExchange.Redis.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Buffers.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Collections.Immutable.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.IO.Pipelines.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Memory.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.AccessControl.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Permissions.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Channels.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Cors.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Topshelf.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\GITProtocol.pdb
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Cluster.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Coordination.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Akka.Remote.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Buffers.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Codecs.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Common.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Handlers.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\DotNetty.Transport.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Google.Protobuf.pdb
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Google.Protobuf.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Newtonsoft.Json.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\NLog.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\StackExchange.Redis.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Buffers.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Collections.Immutable.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.IO.Pipelines.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Memory.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.AccessControl.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Permissions.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Channels.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\bin\Debug\Topshelf.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.csproj.Up2Date
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.exe
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\ApiNode\obj\Debug\ApiNode.pdb
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\config.hocon
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\NLog.config
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\ApiNode.exe.config
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\ApiNode.exe
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\ApiNode.pdb
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Akka.Cluster.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Akka.Coordination.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Akka.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Akka.Remote.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\BrakePedal.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\DotNetty.Buffers.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\DotNetty.Codecs.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\DotNetty.Common.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\DotNetty.Handlers.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\DotNetty.Transport.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\GITProtocol.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Newtonsoft.Json.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\NLog.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Owin.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\StackExchange.Redis.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Buffers.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Collections.Immutable.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.IO.Pipelines.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Memory.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Security.AccessControl.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Security.Permissions.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Threading.Channels.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Web.Cors.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Topshelf.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\GITProtocol.pdb
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Akka.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Akka.Cluster.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Akka.Coordination.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Akka.Remote.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\DotNetty.Buffers.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\DotNetty.Codecs.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\DotNetty.Common.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\DotNetty.Handlers.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\DotNetty.Transport.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.pdb
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Newtonsoft.Json.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\NLog.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\StackExchange.Redis.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Buffers.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Collections.Immutable.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.IO.Pipelines.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Memory.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Security.AccessControl.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Security.Permissions.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Threading.Channels.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\bin\Debug\Topshelf.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.Up2Date
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\obj\Debug\ApiNode.exe
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\ApiNode\obj\Debug\ApiNode.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\config.hocon
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\NLog.config
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\ApiNode.exe.config
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\ApiNode.exe
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\ApiNode.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Akka.Cluster.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Akka.Coordination.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Akka.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Akka.Remote.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\BrakePedal.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\DotNetty.Buffers.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\DotNetty.Codecs.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\DotNetty.Common.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\DotNetty.Handlers.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\DotNetty.Transport.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\GITProtocol.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Newtonsoft.Json.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\NLog.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Owin.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\StackExchange.Redis.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Buffers.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Collections.Immutable.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.IO.Pipelines.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Memory.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Security.AccessControl.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Security.Permissions.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Threading.Channels.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Web.Cors.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Topshelf.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\GITProtocol.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Akka.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Akka.Cluster.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Akka.Coordination.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Akka.Remote.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\DotNetty.Buffers.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\DotNetty.Codecs.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\DotNetty.Common.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\DotNetty.Handlers.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\DotNetty.Transport.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Newtonsoft.Json.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\NLog.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\StackExchange.Redis.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Buffers.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Collections.Immutable.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.IO.Pipelines.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Memory.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Security.AccessControl.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Security.Permissions.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Threading.Channels.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\bin\Debug\Topshelf.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\obj\Debug\ApiNode.exe
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\obj\Debug\ApiNode.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.Up2Date
+E:\1_Workspace\9_slotclone\Backend_JILI\ApiNode\obj\Debug\ApiNode.exe.config
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\config.hocon
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\NLog.config
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\ApiNode.exe.config
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\ApiNode.exe
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\ApiNode.pdb
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Akka.Cluster.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Akka.Coordination.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Akka.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Akka.Remote.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\BrakePedal.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\DotNetty.Buffers.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\DotNetty.Codecs.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\DotNetty.Common.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\DotNetty.Handlers.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\DotNetty.Transport.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\GITProtocol.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Newtonsoft.Json.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\NLog.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Owin.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\StackExchange.Redis.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Buffers.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Collections.Immutable.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.IO.Pipelines.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Memory.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Security.AccessControl.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Security.Permissions.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Threading.Channels.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Web.Cors.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Topshelf.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\GITProtocol.pdb
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Akka.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Akka.Cluster.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Akka.Coordination.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Akka.Remote.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\DotNetty.Buffers.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\DotNetty.Codecs.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\DotNetty.Common.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\DotNetty.Handlers.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\DotNetty.Transport.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.pdb
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Newtonsoft.Json.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\NLog.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\StackExchange.Redis.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Buffers.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Collections.Immutable.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.IO.Pipelines.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Memory.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Security.AccessControl.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Security.Permissions.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Threading.Channels.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\bin\Debug\Topshelf.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.Up2Date
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\obj\Debug\ApiNode.exe
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\ApiNode\obj\Debug\ApiNode.pdb
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\config.hocon
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\NLog.config
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\ApiNode.exe.config
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\ApiNode.exe
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\ApiNode.pdb
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Akka.Cluster.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Akka.Coordination.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Akka.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Akka.Remote.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\BrakePedal.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\DotNetty.Buffers.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\DotNetty.Codecs.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\DotNetty.Common.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\DotNetty.Handlers.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\DotNetty.Transport.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\GITProtocol.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Newtonsoft.Json.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\NLog.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Owin.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\StackExchange.Redis.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Buffers.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Collections.Immutable.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.IO.Pipelines.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Memory.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Security.AccessControl.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Security.Permissions.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Threading.Channels.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Web.Cors.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Topshelf.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\GITProtocol.pdb
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Akka.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Akka.Cluster.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Akka.Coordination.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Akka.Remote.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\DotNetty.Buffers.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\DotNetty.Codecs.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\DotNetty.Common.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\DotNetty.Handlers.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\DotNetty.Transport.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.pdb
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Google.Protobuf.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Newtonsoft.Json.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\NLog.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\StackExchange.Redis.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Buffers.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Collections.Immutable.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.IO.Pipelines.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Memory.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Security.AccessControl.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Security.Permissions.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Threading.Channels.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\bin\Debug\Topshelf.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\obj\Debug\ApiNode.exe.config
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\obj\Debug\ApiNode.csproj.Up2Date
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\obj\Debug\ApiNode.exe
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\ApiNode\obj\Debug\ApiNode.pdb
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\config.hocon
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\NLog.config
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\ApiNode.exe.config
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\ApiNode.exe
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\ApiNode.pdb
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Akka.Cluster.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Akka.Coordination.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Akka.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Akka.Remote.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\BrakePedal.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\DotNetty.Buffers.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\DotNetty.Codecs.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\DotNetty.Common.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\DotNetty.Handlers.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\DotNetty.Transport.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\GITProtocol.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Google.Protobuf.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Owin.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Newtonsoft.Json.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\NLog.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Owin.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\StackExchange.Redis.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Buffers.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Collections.Immutable.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.IO.Pipelines.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Memory.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Security.AccessControl.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Security.Permissions.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Threading.Channels.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Web.Cors.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Web.Http.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Topshelf.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\GITProtocol.pdb
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Akka.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Akka.Cluster.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Akka.Coordination.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Akka.Remote.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\DotNetty.Buffers.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\DotNetty.Codecs.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\DotNetty.Common.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\DotNetty.Handlers.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\DotNetty.Transport.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Google.Protobuf.pdb
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Google.Protobuf.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Owin.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Newtonsoft.Json.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\NLog.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\StackExchange.Redis.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Buffers.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Collections.Immutable.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.IO.Pipelines.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Memory.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Security.AccessControl.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Security.Permissions.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Threading.Channels.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Web.Http.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\bin\Debug\Topshelf.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\obj\Debug\ApiNode.exe.config
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\obj\Debug\ApiNode.csproj.Up2Date
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\obj\Debug\ApiNode.exe
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\ApiNode\obj\Debug\ApiNode.pdb
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\config.hocon
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\NLog.config
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\ApiNode.exe.config
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\ApiNode.exe
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\ApiNode.pdb
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Akka.Cluster.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Akka.Coordination.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Akka.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Akka.Logger.NLog.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Akka.Remote.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\BrakePedal.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\DotNetty.Buffers.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\DotNetty.Codecs.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\DotNetty.Common.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\DotNetty.Handlers.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\DotNetty.Transport.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\GITProtocol.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Google.Protobuf.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Owin.Cors.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Owin.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Newtonsoft.Json.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\NLog.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Owin.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\StackExchange.Redis.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Buffers.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Collections.Immutable.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.IO.Pipelines.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Memory.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Net.Http.Formatting.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Numerics.Vectors.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Security.AccessControl.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Security.Permissions.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Text.Encodings.Web.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Threading.Channels.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Web.Cors.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Web.Http.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Web.Http.Owin.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Topshelf.dll
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\GITProtocol.pdb
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Akka.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Akka.Cluster.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Akka.Coordination.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Akka.Logger.NLog.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Akka.Remote.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\DotNetty.Buffers.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\DotNetty.Codecs.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\DotNetty.Common.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\DotNetty.Handlers.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\DotNetty.Transport.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Google.Protobuf.pdb
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Google.Protobuf.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Owin.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Owin.Cors.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Newtonsoft.Json.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\NLog.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\StackExchange.Redis.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Buffers.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Collections.Immutable.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.IO.Pipelines.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Memory.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Net.Http.Formatting.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Numerics.Vectors.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Security.AccessControl.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Security.Permissions.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Text.Encodings.Web.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Threading.Channels.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Web.Http.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\System.Web.Http.Owin.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\bin\Debug\Topshelf.xml
+E:\project\004.Slot\Source\Jili\backend\ApiNode\obj\Debug\ApiNode.csproj.AssemblyReference.cache
+E:\project\004.Slot\Source\Jili\backend\ApiNode\obj\Debug\ApiNode.csproj.CoreCompileInputs.cache
+E:\project\004.Slot\Source\Jili\backend\ApiNode\obj\Debug\ApiNode.csproj.Up2Date
+E:\project\004.Slot\Source\Jili\backend\ApiNode\obj\Debug\ApiNode.exe
+E:\project\004.Slot\Source\Jili\backend\ApiNode\obj\Debug\ApiNode.pdb

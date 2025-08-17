@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+package Jili.Protocols.fg3;
+
+message SpinAck {
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataVec = 2;
+	repeated SplitInfo Split = 3;
+	int32 AwardTypeFlag = 4;
+	double ReelMult = 5;
+	double TotalWin = 6;
+	string ShowIndex = 7;
+	double NowMoney = 8;
+	int32 AckType = 9;
+	bool Extra = 10;
+	repeated AwardData PreAwardDataVec = 11;
+	double PreTotalWin = 12;
+	double RTP = 13;
+	repeated Column PlateSymbolLog = 14;
+	bool IsBonus = 15;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Line = 2;
+	double Win = 3;
+	double Mult = 4;
+}
+
+message SplitInfo {
+	int32 Pos = 1;
+	int32 Level = 2;
+}

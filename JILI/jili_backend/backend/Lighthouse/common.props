@@ -1,0 +1,28 @@
+<Project>
+  <PropertyGroup>
+    <Copyright>Copyright © 2015-2019 Petabridge, LLC</Copyright>
+    <Authors>Petabridge</Authors>
+    <VersionPrefix>1.4.0</VersionPrefix>
+    <PackageReleaseNotes>Updated to use Akka.NET v1.4.8.
+Should resolve high idle CPU utilization issues detected in earlier versions of Lighthouse.</PackageReleaseNotes>
+    <PackageIconUrl>https://petabridge.com/images/logo.png</PackageIconUrl>
+    <PackageProjectUrl>
+      https://github.com/petabridge/lighthouse
+    </PackageProjectUrl>
+    <PackageLicenseUrl>
+      https://github.com/petabridge/lighthouse/blob/dev/LICENSE
+    </PackageLicenseUrl>
+    <NoWarn>$(NoWarn);CS1591</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <XunitVersion>2.4.1</XunitVersion>
+    <MicrosoftSdkVersion>16.9.1</MicrosoftSdkVersion>
+    <FluentAssertionsVersion>5.10.3</FluentAssertionsVersion>
+    <NetCoreVersion>netcoreapp3.1</NetCoreVersion>
+    <NetStandardVersion>netstandard1.6</NetStandardVersion>
+    <NetFrameworkLibVersion>net461</NetFrameworkLibVersion>
+    <NetFrameworkTestVersion>net461</NetFrameworkTestVersion>
+    <AkkaVersion>1.4.18</AkkaVersion>
+    <PbmVersion>0.8.3</PbmVersion>
+  </PropertyGroup>
+</Project>

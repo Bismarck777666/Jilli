@@ -1,0 +1,68 @@
+syntax = "proto3";
+
+package Jili.Protocols.tll;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue  = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 7;
+	double Bet = 8;
+	repeated FGRedAreaInfo FreeRedData = 9;
+	repeated int32 CrackLevels = 10;
+}
+
+message RoundInfo {
+	CSymbolPlate MainPlateSymbol = 1;
+	repeated CSymbolPlate FreePlateSymbol = 2;
+	repeated AwardData AwardDataVec = 3;
+	int32 AwardTypeFlag = 4;
+	double RoundWin = 5;
+	repeated int32 FreeRemainRound = 6;
+	int32 FreeNowRound = 7;
+	int32 MGReelWeightResult = 8;
+	repeated bool AddCrack = 9;
+	bool MaxFlag = 10;
+	repeated bool FreeEndTag = 11;
+	repeated int32 RedFGRemainNums = 12;
+}
+
+message FGRedAreaInfo {
+	repeated FGRedAreaData FGRedAreaDataVec = 1;
+	repeated Column AreaTypePlate = 2;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message FGRedAreaData {
+	repeated int32 PosVec = 1;
+	int32 AreaType  = 2;
+	int32 Multiplier = 3;
+}
+
+message CSymbolPlate {
+	repeated CColumn CSP = 1;
+}
+
+message CColumn {
+	repeated CSymbol Col = 1;
+}
+
+message CSymbol {
+	int32 Symbol = 1;
+	int32 JPState = 2;
+	int32 JPMult = 3;
+	double Number = 4;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win  =4;
+}

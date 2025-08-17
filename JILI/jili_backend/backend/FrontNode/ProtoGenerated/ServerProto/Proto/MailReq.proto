@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message MailReq {
+  string locale = 1;
+  int32 type = 2;
+}

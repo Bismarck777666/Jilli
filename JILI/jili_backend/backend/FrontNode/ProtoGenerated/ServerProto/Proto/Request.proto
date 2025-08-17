@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "AckType.proto";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message Request{
+	AckType ack = 1;
+	bytes req = 2;
+}

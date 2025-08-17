@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package Jili.Protocols.pp;
+
+message SpinAck {
+	repeated SinglePlate PlateInfo= 1;
+	repeated int32 ExpLen = 2;
+	ColumnF WildPlate = 3;
+	bool HasRespin = 4;
+	bool HasExpand = 5;
+	double TotalWin = 6;
+	string ShowIndex = 7;
+	double NowMoney = 8;
+	int32 AckType = 9;
+	JPInfo JPInfo = 10;
+	double RTP = 11;
+	int32 LID = 12;
+	int32 RID = 13;
+}
+
+message SinglePlate {
+	repeated AwardData AwardDataList = 1;
+	repeated Column PlateSymbol = 2;
+	int32 AwardTypeFlag = 3;
+	double PlateWin = 4;
+	double LineWin = 5;
+	double JPWin = 6;
+	double LinePigMult = 7;
+	bool IsNewPig = 8;
+}
+
+message ColumnF {
+	repeated double RowF = 1;
+}
+
+message JPInfo {
+	repeated double Fronts = 1;
+	repeated double OddPrize = 2;
+	double BaseBet = 3;
+}
+
+message AwardData {
+	int32 AwardSymbol = 1;
+	int32 AwardLine = 2;
+	int32 AwardCount = 3;
+	double AwardMoney = 4;
+}
+
+message Column {
+	repeated int32 Row = 1;
+}

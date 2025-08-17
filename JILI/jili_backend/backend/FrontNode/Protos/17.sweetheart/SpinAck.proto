@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+package Jili.Protocols.Sweetheart;
+
+message SpinAck {
+	AllPlate AllPlate = 1;
+}
+
+message AllPlate {
+	repeated Plate Plate = 1;
+}
+
+message Plate {
+	repeated ColumnData Column = 1;
+	repeated AwardReel Award = 2;
+	double win = 3;
+	uint32 ballCount = 4;
+	double bonusWin = 5;
+}
+
+message ColumnData {
+	repeated int32 Row = 1;
+	repeated double Bonus = 2;
+}
+
+message AwardReel {
+	uint32 Line = 1;
+	repeated Block Block = 2;
+}
+
+message Block {
+	uint32 Row = 1;
+	uint32 Column = 2;
+}

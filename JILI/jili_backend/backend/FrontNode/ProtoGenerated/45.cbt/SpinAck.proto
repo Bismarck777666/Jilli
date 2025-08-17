@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package Jili.Protocols.Cbt;
+
+message SpinAck {
+	repeated SinglePlate AckQueue = 1;
+	double BonusTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 12;
+	int32 LID = 13;
+	int32 RID = 14;
+}
+
+message SinglePlate {
+	repeated Column PlateSymbol = 1;
+	int32 AwardTypeFlag = 2;
+	double PlateWin = 3;
+	double LineWin = 4;
+	double SymbolWin = 5;
+	double PoolWin = 6;
+	repeated Detail PoolDetail = 7;
+	double Mult = 8;
+	repeated double Pool = 9;
+	repeated Detail ShowDetail = 10;
+	int32 Plus = 11;
+	int32 Light = 12;
+	int32 Line = 13;
+	int32 FreeRemainRound = 14;
+	int32 FreeTotalRound = 15;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message Detail {
+	repeated double Detail = 1;
+}

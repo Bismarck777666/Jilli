@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+package Jili.Protocols.Nightclub;
+
+message SpinAck {
+	repeated Plate plate = 1;
+	int64 freeCount = 2;
+	int64 freeRate = 3;
+}
+
+message Plate {
+	repeated ColumnData column = 1;
+	double win = 2;
+	repeated Award award = 3;
+}
+
+message ColumnData{
+	repeated Cell row = 1;
+}
+
+message Cell {
+	int32 symbol = 1;
+	bool isConnect =2;
+}
+
+message Award{
+	int32 symbol = 1;
+	double win = 2;
+	int64 maxColumn = 3;
+	int64 connect = 4;
+}

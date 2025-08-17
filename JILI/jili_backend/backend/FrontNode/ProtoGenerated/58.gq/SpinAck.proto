@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package Jili.Protocols.Gq;
+
+message SpinAck {
+	SinglePlate MainPlate = 1;
+	FreeData FreeInfo = 2;
+	double TotalWin = 3;
+	int32 AwardType = 4;
+	string ShowIndex = 5;
+	double NowMoney = 6;
+	int32 AckType = 7;
+	double RTP = 8;
+	int32 LID = 9;
+	int32 RID = 10;
+}
+
+message SinglePlate {
+	repeated Column OriginPlate = 1;
+	repeated Column LastPlate = 2;
+	repeated Column WildPlate = 3;
+	repeated AwardData AwardDataList = 4;
+	repeated WildData WildDataList = 5;
+	double SingleWin = 6;
+}
+
+message Column {
+	repeated int32 Row = 1;
+}
+
+message AwardData {
+	int32 Index = 1;
+	int32 Symbol = 2;
+	int32 Count = 3;
+	double Money = 4;
+	int32 LMul = 5;
+}
+
+message WildData {
+	int32 SPos = 1;
+	repeated int32 WPos = 2;
+}
+
+message FreeData {
+	repeated SingleFree FreeQueue = 1;
+	double FreeTotalWin = 2;
+}
+
+message SingleFree {
+	SinglePlate FreePlate = 1;
+	int32 AwardType = 2;
+	double NowMoney = 3;
+}

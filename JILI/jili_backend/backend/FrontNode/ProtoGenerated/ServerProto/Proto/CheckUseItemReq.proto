@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message CheckUseItemReq
+{
+	double bet = 1;
+	int32 itemindex = 2;
+	int32 itemid = 3;
+	int32 amount = 4;
+	int32 currencyNumber = 5;
+}

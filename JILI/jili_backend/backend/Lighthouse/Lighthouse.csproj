@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="common.props" />
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>$(NetFrameworkLibVersion)</TargetFrameworks>
+    <UserSecretsId>f5871c07-aa53-406b-b95a-b5b2143fb9eb</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Akka.Cluster" Version="$(AkkaVersion)" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Xml" Version="5.0.0" />
+    <PackageReference Include="Petabridge.Cmd.Cluster" Version="$(PbmVersion)" />
+    <PackageReference Include="Petabridge.Cmd.Remote" Version="$(PbmVersion)" />
+    <PackageReference Include="Akka.Bootstrap.Docker">
+      <Version>0.5.0</Version>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup Condition=" '$(TargetFramework)' == '$(NetFrameworkLibVersion)' ">
+    <PackageReference Include="Topshelf" Version="4.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="akka.hocon">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message DebrisReq{
+	uint32 no = 1;
+    uint32 formula = 2;
+	uint32 amount = 3;
+	uint32 currencynumber = 4;
+}

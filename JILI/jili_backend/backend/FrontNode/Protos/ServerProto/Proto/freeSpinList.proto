@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message freeSpinList{
+	repeated freeData free = 1;
+}
+
+message freeData{
+	string id = 1;
+	int32 remain = 2;
+	int32 type = 3;
+	double bet = 4;
+	double maxWin = 5;
+	double nowWin = 6;
+	freeBonus bonusData = 7;
+	google.protobuf.Timestamp expired= 8;
+	bool isAllowStop = 9;
+	bool closeOnFinish = 10;
+
+}
+
+message freeBonus{
+	double wager  = 1;
+	double wagerOdds = 2;
+	int32 period = 3;
+	google.protobuf.Timestamp expired = 4;
+	int32 skipField = 5;
+	bool isInWager = 6;
+	double maxWin = 7;
+	bool isEnd = 8;
+	double baseWin = 9;
+}

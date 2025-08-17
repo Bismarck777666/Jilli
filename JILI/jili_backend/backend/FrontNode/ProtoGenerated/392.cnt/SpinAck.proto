@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package Jili.Protocols.cnt;
+
+message SpinAck {
+	int32 Award = 1;
+	double TotalWin = 2;
+	repeated int32 PlateSymbol = 3;
+	int32 skipField = 4;
+	string ShowIndex = 5;
+	double NowMoney = 6;
+	int32 AckType = 7;
+	double RTP = 8;
+}
+
+

@@ -1,0 +1,42 @@
+syntax = "proto3";
+
+package Jili.Protocols.loe;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 7;
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataVec = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeType = 4;
+	int32 FreeRemainRound = 5;
+	double RoundWin = 6;
+	double NudgeMult = 7;
+	int32 Nudge = 8;
+	repeated int32 NudgeReelResult = 9;
+	int32 FreeNowRound = 10;
+	int32 FreeTotalRound = 11;
+	bool MaxFlag = 12;
+	double ScatterWin = 13;
+
+}
+
+message Column{
+	repeated int32 Col = 1;
+}
+
+message AwardData{
+	int32 Count = 1;
+	int32 Line = 2;
+	int32 Symbol = 3;
+	double Win = 4;
+	double Mult = 5;
+}

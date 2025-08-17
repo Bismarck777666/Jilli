@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+package Jili.Protocols.bs;
+
+message SpinAck {
+	SinglePlate MainPlate = 1;
+	FreeData FreeInfo = 2;
+	ChainData ChainInfo = 3;
+	EliteData EliteInfo = 4;
+	repeated int32 UpgradeInfo = 5;
+	repeated int32 DoraInfo = 6;
+	repeated int32 SpecialInfo = 7;
+	int32 NowSoul = 8;
+	int32 GetSoul = 9;
+	int32 SoulChange = 10;
+	double TotalWin = 11;
+	int32 AwardType = 12;
+	string  ShowIndex = 13;
+	double NowMoney = 14;
+	int32 AckType =15;
+	double RTP = 16;
+	int32 LID = 17;
+	int32 RLID = 18;
+}
+
+message SinglePlate {
+	int32 NowBall = 1;
+	int32 NowBallLevel = 2;
+	int32 NowBallLevelCount = 3;
+	repeated Track BallTrack = 4;
+	int32 NewSide = 5;
+	repeated SingleBall CrushList = 6;
+	double SingleWin = 7;
+}
+
+message Track{
+	repeated int32 Row = 1;
+}
+
+message SingleBall{
+	int32 CrashBall = 1;
+	double BallWin = 2;
+	int32 BallPos  = 3;
+}

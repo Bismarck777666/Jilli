@@ -1,0 +1,71 @@
+syntax = "proto3";
+
+package Jili.Protocols.Mpt2;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	int32 GameType = 2;
+	double TotalWin = 3;
+	int32 Extra = 4;
+	double RTP = 5;
+	int32 LID = 6;
+	int32 RID = 7;
+}
+
+message RoundInfo {
+	repeated Column Symbol = 1;
+	repeated ColumnM Mul = 2;
+	repeated Column FinalSymbol = 3;
+	repeated ColumnM FinalMul = 4;
+	repeated Collect CollectList = 5;
+	repeated Mystery MysteryList = 6;
+	repeated AwardData AwardDataVec = 7;
+	double RoundWin = 8;
+	int32 PotType = 9;
+	repeated PotSymbol PotList = 10;
+	int32 ReSpinRemainRound = 11;
+	int32 ReSpinTotalRound = 12;
+	bool GetReSpin = 13;
+	bool GetAdd = 14;
+	int32 AwardTypeFlag = 15;
+	bool MaxFlag = 16;
+}
+
+message PotSymbol {
+	int32 Pos = 1;
+	int32 Symbol = 2;
+	double Mul = 3;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message ColumnM {
+	repeated double Col = 1;
+}
+
+message Collect {
+	int32 Pos = 1;	
+	repeated int32 CPos = 2;
+	double Mul = 3;
+	double SymbolMul = 4;
+}
+
+message Mystery {
+	bool IsJP = 1;
+	int32 Pos = 2;
+	int32 Symbol = 3;
+	double Mul = 4;
+}
+
+message AwardData {
+	int32 Atype  = 1;
+	int32 Index = 2;
+	int32 Count = 3;
+	repeated int32 Symbol = 4;
+	int32 Pos = 5;
+	repeated double Mul = 6;
+	double AllMul = 7;
+	double Win = 8;
+}

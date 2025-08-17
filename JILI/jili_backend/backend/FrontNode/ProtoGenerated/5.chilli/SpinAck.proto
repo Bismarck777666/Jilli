@@ -1,0 +1,63 @@
+syntax = "proto3";
+
+package Jili.Protocols.chilli;
+
+message SpinAck {
+	PlateData PlateData = 1;
+	repeated AllFreePlateDataPerRound AllFreePlateDataPerRoundVec  = 2;
+	double FreeGameWin = 3;
+	double TotalWin = 4;
+	int32 AwardType = 5;
+	string ShowIndex = 6;
+	double NowMoney = 7;
+	int32 AckType = 8;
+	int32 RTP = 9;
+	int32 LID = 10;
+	int32 RID = 11;
+}
+
+message PlateData {
+	repeated int32 PlateVec = 1;
+	LineAwardInfo LineAwardInfo = 2;
+	ScatterAwardInfo ScatterAwardInfo = 3;
+}
+
+message AllFreePlateDataPerRound {
+	repeated FreePlateData FreePlateDataVec = 1;
+	int32 ChilliCount = 2;
+	int32 ThisRoundChilliCount = 3;
+	int32 RemainFreeGameRound = 4;
+	string LogIndex = 5;
+}
+
+message FreePlateData {
+	repeated int32 PlateVec = 1;
+	LineAwardInfo LineAwardInfo = 2;
+	ScatterAwardInfo ScatterAwardInfo = 3;
+	int32 Position = 4;
+	int32 WildLockCount = 5;
+}
+
+message LineAwardInfo {
+	repeated LineAwardData LineAwardDataVec = 1;
+	double WinMoney = 2;
+}
+
+message LineAwardData {
+	int32 LineIndex = 1;
+	int32 Symbol = 2;
+	int32 SymbolCount = 3;
+	double Win  =4;
+}
+
+message ScatterAwardInfo {
+	repeated Grid GridVec = 1;
+	double Money = 2;
+	int32 FreeGameRound = 3;
+	int32 ColumnCount = 4;
+}
+
+message Grid {
+	int32 Column = 1;
+	int32 Row = 2;
+}

@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package Jili.Protocols.Fs;
+
+message AllPlate {
+	repeated Plate Plate = 1;
+	Plate finalPlate = 2;
+}
+
+message Plate {
+	repeated ColumnData Column = 1;
+	repeated Cell Change = 2;
+	repeated Combo Combo = 3;
+	double Win = 4;
+	double BonusWin = 5;
+	bool IsBonus = 6;
+	uint32 bonusRate = 7;
+}
+
+message ColumnData {
+	repeated int32 Row = 1;
+}
+
+message Cell {
+	int32 symbol = 1;
+	uint32 row = 2;
+	uint32 column = 3;
+}
+
+message Combo {
+	repeated Cell Change = 1;
+	repeated AwardReel Award = 2;
+	double Win = 3;
+}
+
+message AwardReel {
+	int32 Symbol = 1;
+	repeated Block Block = 2;
+	double Win = 3;
+	uint32 Bonus = 4;
+	uint32 MaxLen = 5;
+}
+
+message Block {
+	uint32 Row = 1;
+	uint32 Column = 2;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MailInfo.proto";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message GetUserMail{
+	MailInfo info = 1;
+	int32 ret = 2;
+}

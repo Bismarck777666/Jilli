@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "LonghuListMixPlayerAdminV3.proto";
+
+option csharp_namespace = "Jili.Protocols.LonghuProto";
+
+message LonghuListMixV3{
+    LonghuListMixPlayerAdminV3 win = 1;
+    LonghuListMixPlayerAdminV3 odd = 2;
+    LonghuListMixPlayerAdminV3 oddgames = 3;
+    LonghuListMixPlayerAdminV3 wingames = 4;
+}

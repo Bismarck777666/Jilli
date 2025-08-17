@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package PatternMaker.Service.PatternEngines.J014.Protocols;
+
+message SpinAck {
+	repeated Plate plate = 1;
+	ExtraInfo extraInfo = 2;
+	ExtraInfo nowExtraInfo = 3;
+}
+
+message Plate {
+	repeated Row column = 1;
+	repeated AwardReel award  =2;
+	double win = 3;
+	bool isBonus = 4;
+}
+
+message Row{
+	repeated int32 row = 1;
+}
+
+message ExtraInfo {
+	uint32 hyperCount = 1;
+	double hyperBonus = 2;
+	double hyperBet = 3;
+}
+
+message AwardReel {
+	uint32 line = 1;
+	repeated Block block = 2;
+	double win = 3;
+	uint32 dir = 4;
+	int32 symbol =5;
+}
+
+message Block {
+	uint32 row = 1;
+	uint32 column = 2;
+}

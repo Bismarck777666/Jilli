@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message CheckUseItem
+{
+	ItemInfo info = 1;
+	int32 ret = 2;
+}
+
+message ItemInfo{
+	int32 result = 1;
+	double bet = 2;
+	int32 spinpaytype = 3;
+	int32 givetype = 4;
+	int32 wintype = 5;
+	double winmultiplier = 6;
+	double winmaxmag = 7;
+	double winmagupperbound = 8;
+	double winmaglowerbound = 9;
+	int32 star = 10;
+	int32 icon = 11;
+	int32 alterid = 12;
+	double coinlimit = 13;
+	int32 source = 14;
+	double playvalue = 15;
+}

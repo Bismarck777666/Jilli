@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package Jili.Protocols.lwc;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	int32 AckType =4;
+	double RTP = 5;
+	int32 LID = 6;
+	int32 RID = 7;
+}
+
+message RoundInfo{
+	repeated Column Symbol = 1;
+	repeated AwardData AwardDataVec = 2;
+	double RoundWin = 3;
+	int32 WheelType = 4;
+	double WheelMul = 5;
+	int32 WildCount = 6;
+	bool GetFree = 7;
+	int32 FreeNowRound = 8;
+	int32 FreeTotalRound = 9;
+	int32 FreeWheelType = 10;
+	repeated int32 FreeWheelColumn = 11;
+	repeated Column FreeSymbol = 12;
+	repeated AwardData FreeAwardDataVec = 13;
+	int32 AwardTypeFlag = 14;
+	int32 ReelType = 15;
+	bool IsMain = 16;
+	bool MaxFlag = 17;
+	double FreeFirstWin = 18;
+}
+
+message Column {
+    repeated int32 Column = 1;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 LineNum = 3;
+	double Win = 4;
+	repeated int32 Pos = 5;
+}
+
+
+

@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package Jili.Protocols.Wondershow;
+
+message SpinAck {
+	repeated Plate plate = 1;
+}
+
+message Plate {
+	repeated Row column = 1;
+	repeated AwardReel award  =2;
+	double win = 3;
+}
+
+message Row{
+	repeated int32 row = 1;
+	repeated double bonus = 2;
+}
+
+message AwardReel {
+	uint32 line = 1;
+	repeated Block block = 2;
+	double win = 3;
+
+}
+
+message Block {
+	uint32 row = 1;
+	uint32 column = 2;
+}

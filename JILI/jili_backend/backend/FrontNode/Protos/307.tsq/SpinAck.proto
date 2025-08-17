@@ -1,0 +1,66 @@
+syntax = "proto3";
+
+package Jili.Protocols.tsq;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	bool IsBuy = 3;
+	double TotalWin = 4;
+	int32 AckType = 5;
+	double RTP = 6;
+}
+
+message RoundInfo{
+	repeated ComboStageInfo ComboStageData = 1;
+	double RoundWin = 2;
+	double Mult = 3;
+	repeated int32 LightPos = 4;
+	int32 TotalEliminateCount = 5;
+	int32 LevelCount = 6;
+	int32 Level = 7;
+	int32 FreeTotalRound = 8;
+	int32 AwardTypeFlag = 9;
+}
+
+message ComboStageInfo{
+	repeated Column ComboStageSymbol  = 1;
+	double ComboStageWin = 2;
+	repeated AwardData AwardDataVec = 3;
+	repeated Column FillSymbols = 4;
+	bool NeedEliminate = 5;
+	repeated Column Eliminate =6;
+	int32 EliminateCount = 7;
+	repeated bool LightGet = 8;
+	repeated bool LightShow = 9;
+	repeated LightData LightInfo = 10;
+
+}
+
+message Column{
+	repeated int32 Col = 1;
+}
+
+message LightData{
+	int32 LightType = 1;
+	int32 TwoInfo = 2;
+	repeated BigGem ThreeInfo = 3;
+	repeated BigGem FourInfo = 4;
+	repeated int32 FiveInfo = 5;
+	repeated Column LightSymbol = 6;
+}
+
+message BigGem {
+	int32 Symbol = 1;
+	int32 Size = 2;
+	repeated int32 PosVec = 3;
+}
+
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 OddCount = 3;
+	repeated int32 PosVec = 4;
+	double Win = 5;
+}

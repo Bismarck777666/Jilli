@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+package Jili.Protocols.samba;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	bool Extra = 7;
+	double RTP = 8;
+	int32 LID = 9;
+	int32 RID = 10;
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataVec = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	double RoundWin = 5;
+	double Mult = 6;
+	int32 Change = 7;
+	bool MaxFlag = 8;
+	repeated Column PlateSymbolReal = 9;
+	int32 AddRound = 10;
+}
+
+message Column {
+	repeated int32 Row = 1;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+}

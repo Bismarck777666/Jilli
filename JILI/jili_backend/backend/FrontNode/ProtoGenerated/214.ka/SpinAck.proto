@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package Jili.Protocols.Ka;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double Bet = 7;
+	double RTP = 8;
+}
+
+message RoundInfo {
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataVec = 2;
+	int32 AwardTypeFlag = 3;
+	double RoundWin = 4;
+	int32 FreeRemainRound = 5;
+	repeated Column MGWildVS = 6;
+	repeated int32 MGWildWinner = 7;
+	double MGMult = 8;
+	repeated double FGNowValue = 9;
+	repeated ColumnFloat FGNewPlate = 10;
+	repeated int32 FGWinner = 11;
+	repeated Column PlateSymbolLog = 12;
+	repeated double FGNowValueAfterDuel = 13;
+	repeated int32 MGMultResult = 14;
+	bool MaxFlag = 15;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message ColumnFloat {
+	repeated double Col = 1;
+}

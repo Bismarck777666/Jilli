@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package Jili.Protocols.Ifff;
+
+message SpinAck {
+	repeated int32 PlateSymbol = 1;
+	int32 Award = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 7;
+}

@@ -1,0 +1,61 @@
+syntax = "proto3";
+
+package Jili.Protocols.Bk;
+
+message SpinAck {
+	MainData MainInfo = 1;
+	FreeData FreeInfo = 2;
+	double TotalWin = 3;
+	int32 AwardType = 4;
+	string ShowIndex = 5;
+	double NowMoney = 6;
+	int32 AckType = 7;
+	double Bet = 8;
+	double RTP = 9;
+	int32 LID = 10;
+	int32 RID = 11;
+}
+
+message MainData {
+	repeated SinglePlate PlateQueue = 1;
+	double MainWin = 2;
+	int32 ScatterCount = 3;
+	double ScatterWin = 4;
+	bool MaxFlag = 5;
+}
+
+message SinglePlate {
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataList = 2;
+	double SingleWin = 3;
+	double SingleMul = 4;
+	repeated int32 NextRow = 5;
+	bool MaxFlag = 6;
+}
+
+message Column {
+	repeated int32 Row = 1;
+}
+
+message AwardData {
+	int32 Index = 1;
+	int32 Symbol = 2;
+	int32 Count = 3;
+	double Money = 4;
+}
+
+message FreeData {
+	repeated SingleFree FreeQueue = 1;
+	double FreeTotalWin = 2;
+}
+
+message SingleFree {
+	repeated SinglePlate FreePlateQueue = 1;
+	double FreeWin = 2;
+	int32 FreePlus = 3;
+	int32 AwardType = 4;
+	double NowMoney = 5;
+	int32 FreeNowRound = 6;
+	int32 FreeTotalRound = 7;
+	bool MaxFlag = 8;
+}

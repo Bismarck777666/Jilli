@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+package Jili.Protocols.Ols3;
+
+message SpinAck {
+	repeated SinglePlate AckQueue = 1;
+	double TotalWin = 2;
+	string ShowIndex = 3;
+	double NowMoney = 4;
+	int32 AckType = 5;
+	double RTP = 6;
+	int32 LID = 7;
+	int32 RID = 8;
+}
+
+message SinglePlate {
+	repeated Column PlateSymbol = 1;
+	int32 AwardTypeFlag = 2;
+	repeated AwardData AwardDataVec = 3;
+	repeated double PlateWin = 4;
+	double BothWin = 5;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Plate = 2;
+	int32 Line = 3;
+	double Win = 4;
+}

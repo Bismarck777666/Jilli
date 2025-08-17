@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+package Jili.Protocols.zeus;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 7;
+	int32 LID = 8;
+	int32 RID = 9;
+}
+
+message RoundInfo{
+	repeated ComboStageInfo ComboStageData = 1;
+	double RoundWin = 2;
+	int32 FreeRemainRound = 3;
+	int32 FreeTotalRound = 4;
+	int32 AddRound = 5;
+	int32 AwardTypeFlag = 6;
+	bool MaxFlag = 7;
+}
+
+message ComboStageInfo{
+	repeated Column ComboStageSymbol  = 1;
+	double ComboStageWin = 2;
+	repeated AwardData AwardDataVec = 3;
+	repeated Column FillSymbols = 4;
+	int32 ChangeSpecial = 5;
+	bool NeedEliminate = 6;
+	repeated Column Eliminate = 7;
+	int32 ScatterCount = 8;
+	int32 NowExtend = 9;
+	int32 GetExtend = 10;
+	int32 GetPlusRound = 11;
+	bool MaxFlag = 12;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 LineNum = 3;
+	double Win = 4;
+	repeated int32 Pos = 5;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}

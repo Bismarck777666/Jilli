@@ -1,0 +1,90 @@
+syntax = "proto3";
+
+package Jili.Protocols.gem3;
+
+message SpinAck {
+	repeated GemData GemInfo= 1;
+	bool ChangePlate = 2;
+	int32 ChangePlateSize= 3;
+	bool GetWheel = 4;
+	double WheelType = 5;
+	FreeData FreeInfo = 6;
+	BonusData BonusInfo = 7;
+	BetMulData BetMulInfo = 8;
+	JPData JPWinInfo = 9;
+	int32 Upcount = 10;
+	int32 TotalUpcount = 11;
+	double Mainwin = 12;
+	double Wheelwin = 13;
+	double TotalWin = 14;
+	int32 AwardType = 15;
+	string ShowIndex = 16;
+	double NowMoney = 17;
+	int32 AckType = 18;
+	double RTP = 19;
+	int32 LID = 20;
+	int32 RID =21;
+	JPInfo JPInfo = 22;
+	JPInfo JPBeforeInfo = 23;
+}
+
+message BonusData {
+	repeated SingleBonus BonusQueue  = 1;
+	int32  BonusCount = 2;
+	double  BonusTotalWin = 3;
+}
+
+message SingleBonus {
+	GemData BonusGem = 1;
+	int32 BonusSymbol = 2;
+	int32 BonusSymbolCount = 3;
+}
+
+message BetMulData {
+	double BetMul = 1;
+	double BetMulTotalWin = 2;
+}
+
+message JPData {
+	int32 JPType = 1;
+	double JPTotalWin = 2;
+}
+
+message GemData {
+	repeated SingleGem PlateQueue = 1;
+	int32 Count = 2;
+	double GemWin = 3;
+}
+
+message JPInfo {
+	double Self = 1;
+	repeated double Fronts = 2;
+}
+
+message FreeData {
+	repeated SingleFree FreeQueue = 1;
+	double FreeMul = 2;
+	double FreeTotalWin = 3;
+}
+
+message SingleFree {
+	GemData FreeGemInfo = 1;
+	double FreeSingleWin = 2;
+	int32 AwardType = 3;
+	double NowMoney = 4;
+}
+
+message SingleGem {
+	repeated string PlateSymbol = 1;
+	repeated string PlateTag = 2;
+	repeated AwardData AwardInfos = 3;
+	double SingleWin = 4;
+	bool HasUp = 5;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Tag = 2;
+	double Win = 3;
+	int32 Count = 4;
+}

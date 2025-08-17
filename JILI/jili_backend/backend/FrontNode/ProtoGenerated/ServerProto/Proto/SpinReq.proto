@@ -1,0 +1,65 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message SpinReq{
+	double bet = 1;
+	uint32 cheat = 2;
+	uint32 itemIndex = 3;
+	uint32 itemID = 4;
+	int32 skipField1 = 5;
+	int32 skipField2 = 6;
+	int32 currencyNumber = 7;
+	double mallBet = 8;
+	uint32 vip = 9;
+	bytes customReq = 10;
+	bool isFree = 11;
+	uint32 Extra = 12;
+	uint32 Level = 13;
+	int32 BDType = 14;
+	int32 BBTimes = 15;
+	double AccuMallBet = 16;
+	double GameMallBet = 17;
+	int32 GameMallType = 18;
+	bool isr = 19;
+	int32 BuyCustomType = 20;
+	bool isturbo = 21;
+	ItemSpin item = 22;
+	MallSpin mall = 23;
+	BuySpin buy = 24;
+	SpecialCase special = 25;
+	ExtraSpin extraSpin = 26;
+	FreeSpin freeSpin = 27;
+	bytes clientRecord = 28;
+	SpecialBonus specialBonus = 29;
+	bool istournament = 30;
+}
+
+message ItemSpin{
+	uint32 ID = 1;
+	uint32 Index = 2;
+}
+
+message MallSpin{
+	int32 Type = 1;
+	int32 Index = 2;
+	double Bet = 3;
+}
+message BuySpin{
+	int32 BuyCustomType = 1;
+}
+message SpecialCase{
+	bool turbo = 1;
+	uint32 cheat = 2;
+	bool robot = 3;
+	bool tournament = 4;
+}
+message ExtraSpin{
+	uint32 Index = 1;
+}
+message FreeSpin{
+	bool free = 1;
+}
+message SpecialBonus{
+	bool used = 1;
+}

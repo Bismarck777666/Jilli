@@ -1,0 +1,54 @@
+syntax = "proto3";
+
+package Jili.Protocols.gem;
+
+message SpinAck {
+	repeated SiniglePlate PlateInfo = 1;
+	int32 Count = 2;
+	bool IsUpgrade  = 3;
+	bool IsFree = 4;
+	bool IsRainBow = 5;
+	double TotalWin = 6;
+	string ShowIndex = 7;
+	double NowMoney = 8;
+	int32 AckType = 9;
+	double RTP = 10;
+	int32 LID = 11;
+	int32 RID = 12;
+	repeated FreeSpinAck FreePlateInfo = 13;
+}
+
+message SiniglePlate {
+	repeated Column PlateSymbol = 1;
+	repeated Column PlateTag = 2;
+	repeated Column PlateChange = 3;
+	repeated AwardData AwardInfo = 4;
+	int32 AwardType = 5;
+	int32 MaxFreeRound = 6;
+	int32 FreeRound = 7;
+	double PlateWin = 8;
+	int32 RainBow = 9;
+}
+
+message FreeSpinAck {
+	repeated SiniglePlate PlateInfo = 1;
+	int32 Count = 2;
+	bool IsUpgrade = 3;
+	bool IsFree =4;
+	bool IsRainBow = 5;
+	double TotalWin = 6;
+
+}
+
+message Column {
+	repeated int32 Row = 1;
+}
+
+message AwardData {
+	int32 symbol = 1;
+	int32 Tag = 2;
+	double FREEMul = 3;
+	double Win = 4;
+	int32 Count = 5;
+	int32 Oddlv = 6;
+}

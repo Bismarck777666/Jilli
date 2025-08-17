@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.LonghuProto";
+
+message GetLonghuListRequest{
+    int32 apiID = 1;
+    int32 accountID = 2;
+    int32 subAgentCode = 3;
+    int32 GameID = 4;
+}

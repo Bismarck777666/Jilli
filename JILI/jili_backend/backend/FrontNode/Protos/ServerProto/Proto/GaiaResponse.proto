@@ -1,0 +1,14 @@
+﻿syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+package Jili.Protocols.common;
+
+message GaiaResponse {
+	int32 type = 1;
+	int32 ret = 2;
+	string token = 3;
+	string ErrorMsg = 4;
+	bytes data = 5;
+	google.protobuf.Timestamp now = 6;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message JpShowData{
+	repeated JpInfo info = 1;
+	repeated int32 game = 2;
+}
+
+message JpInfo{
+	int32 type = 1;
+	double value = 2;
+}

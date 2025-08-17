@@ -1,0 +1,63 @@
+syntax = "proto3";
+
+package Jili.Protocols.rxmw;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double BonusTotalWin = 3;
+	repeated BonusGameInfo BonusInfo = 4;
+	double TotalWin = 5;
+	double RTP = 6;
+	int32 AckType = 7;
+}
+
+message RoundInfo{
+	repeated ComboStageInfo ComboStageData = 1;
+	double RoundWin = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	int32 FreeNowRound = 5;
+	int32 FreeTotalRound = 6;
+	int32 AddRound = 7;
+	bool MaxFlag = 8;
+}
+
+message BonusGameInfo{
+	int32 Symbol = 1;
+	int32 FightResult = 2;
+	int32 LionLevel = 3;
+	double Mult = 4;
+	double Win = 5;
+	int32 HealthPoint = 6;
+	int32 NowRound = 7;
+	int32 CrazyRemainRound  = 8;
+	int32 CrazyType = 9;
+	bool MaxFlag = 10;
+}
+
+message ComboStageInfo{
+	repeated MColumn ComboStageSymbol = 1;
+	double ComboStageWin = 2;
+	repeated AwardData AwardDataVec = 3;
+	repeated MColumn FillSymbols  = 4;
+	bool BonusHit = 5;
+	bool MaxFlag = 6;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 LineNum = 3;
+	double Win = 4;
+}
+
+message MColumn{
+	repeated MSymbol MColumn = 1;
+}
+
+message MSymbol{
+	int32 Symbol = 1;
+	int32 Length = 2;
+}
+

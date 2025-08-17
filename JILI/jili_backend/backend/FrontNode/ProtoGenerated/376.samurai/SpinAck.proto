@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package Jili.Protocols.samurai;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double Bet = 2;
+	double FreeTotalWin = 3;
+	double TotalWin = 4;
+	string ShowIndex  =5;
+	double NowMoney = 6;
+	int32 AckType = 7;
+	double RTP = 8;
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataVec  = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	int32 FreeNowRound = 5;
+	int32 FreeTotalRound = 6;
+	int32 AddRound = 7;
+	double RoundWin = 8;
+	bool MaxFlag = 9;
+	repeated Column PlateSymbolLog = 10;
+	repeated double DisplayWin = 11;
+	repeated DisplayAwardVec DisplayAward = 12;
+}
+
+message Column{
+	repeated int32 Col = 1;
+
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Connect = 3;
+	double Win = 4;
+}
+
+message DisplayAwardVec{
+	repeated AwardData AwardDataVec = 1;
+}

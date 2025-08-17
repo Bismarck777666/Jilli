@@ -1,0 +1,64 @@
+syntax = "proto3";
+
+package Jili.Protocols.ps;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double Bet = 7;
+	double RTP = 8;
+}
+
+message RoundInfo{
+	repeated ComboStageInfo ComboStageData = 1;
+	int32 AwardTypeFlag = 2;
+	int32 FreeRemainRound = 3;
+	int32 FreeNowRound = 4;
+	int32 FreeTotalRound = 5;
+	int32 AddRound = 6;
+	double RoundWin = 7;
+	repeated int32 SBGHeight = 8;
+	bool MaxFlag = 9;
+}
+
+message ComboStageInfo{
+	repeated MColumn ComboStageSymbol  = 1;
+	double ComboStageWin = 2;
+	repeated AwardData AwardDataVec = 3;
+	repeated MColumn FillSymbols = 4;
+	repeated MColumn ChangeSymbols = 5;
+	repeated PartyData Party = 6;
+	bool MaxFlag = 7;
+	repeated MColumn ComboStageSymbolLog = 8;
+}
+
+message MColumn{
+	repeated MSymbol Col = 1;
+}
+
+message MSymbol {
+	int32 Symbol = 1;
+	int32 HSymbol = 2;
+	int32 HStack = 3;
+}
+
+message PartyData {
+	int32 LR = 1;
+	int32 State = 2;
+	bool Worked = 3;
+	int32 StackCol = 4;
+	int32 StackRow = 5;
+	int32 HSymbol = 6;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	int32 Direction = 4;
+	double Win = 5;
+}

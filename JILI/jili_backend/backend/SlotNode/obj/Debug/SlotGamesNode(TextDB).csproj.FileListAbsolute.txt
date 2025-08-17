@@ -1,0 +1,194 @@
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\config.hocon
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\NLog.config
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\SlotGamesNode.exe.config
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\SlotGamesNode.exe
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\SlotGamesNode.pdb
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Akka.Cluster.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Akka.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Akka.Logger.NLog.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Akka.Remote.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Buffers.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Codecs.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Common.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Handlers.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Transport.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\EntityFramework.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\EntityFramework.SqlServer.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\GITProtocol.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Google.Protobuf.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Newtonsoft.Json.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\NLog.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\StackExchange.Redis.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Buffers.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Collections.Immutable.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Data.SQLite.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Data.SQLite.EF6.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Data.SQLite.Linq.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.IO.Pipelines.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Memory.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Numerics.Vectors.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Security.AccessControl.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Security.Permissions.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Security.Principal.Windows.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Threading.Channels.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Topshelf.dll
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\GITProtocol.pdb
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Akka.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Akka.Cluster.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Akka.Logger.NLog.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Akka.Remote.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Buffers.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Codecs.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Common.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Handlers.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Transport.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\EntityFramework.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\EntityFramework.SqlServer.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Google.Protobuf.pdb
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Google.Protobuf.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Newtonsoft.Json.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\NLog.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\StackExchange.Redis.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Buffers.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Collections.Immutable.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Data.SQLite.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.IO.Pipelines.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Memory.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Numerics.Vectors.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Security.AccessControl.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Security.Permissions.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Security.Principal.Windows.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Threading.Channels.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\bin\Debug\Topshelf.xml
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\obj\Debug\SlotGamesNode(TextDB).csproj.CoreCompileInputs.cache
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\obj\Debug\SlotGamesNode.exe
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\obj\Debug\SlotGamesNode.pdb
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\obj\Debug\SlotGamesNode(TextDB).csproj.AssemblyReference.cache
+E:\work\work_by_category\Slot\PPServer\GITGameServerSolution2021(Sqlite)\SlotGamesNode(TextDB)\obj\Debug\SlotGamesNode(TextDB).csproj.CopyComplete
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\config.hocon
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\NLog.config
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\SlotGamesNode.exe.config
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\SlotGamesNode.exe
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\SlotGamesNode.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Akka.Cluster.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Akka.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Akka.Logger.NLog.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Akka.Remote.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Buffers.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Codecs.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Common.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Handlers.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Transport.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\EntityFramework.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\EntityFramework.SqlServer.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\GITProtocol.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Google.Protobuf.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Newtonsoft.Json.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\NLog.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\StackExchange.Redis.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Buffers.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Collections.Immutable.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.IO.Pipelines.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Memory.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Numerics.Vectors.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Security.AccessControl.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Security.Permissions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Security.Principal.Windows.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Threading.Channels.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Topshelf.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\GITProtocol.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Akka.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Akka.Cluster.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Akka.Logger.NLog.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Akka.Remote.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Buffers.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Codecs.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Common.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Handlers.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DotNetty.Transport.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\EntityFramework.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\EntityFramework.SqlServer.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Google.Protobuf.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Google.Protobuf.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Newtonsoft.Json.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\NLog.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\StackExchange.Redis.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Buffers.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Collections.Immutable.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.IO.Pipelines.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Memory.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Numerics.Vectors.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Security.AccessControl.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Security.Permissions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Security.Principal.Windows.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Threading.Channels.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Topshelf.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\obj\Debug\SlotGamesNode(TextDB).csproj.AssemblyReference.cache
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\obj\Debug\SlotGamesNode(TextDB).csproj.CoreCompileInputs.cache
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\obj\Debug\SlotGamesNode(TextDB).csproj.CopyComplete
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\obj\Debug\SlotGamesNode.exe
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\obj\Debug\SlotGamesNode.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\MongoDB.Bson.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\MongoDB.Bson.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\mongocrypt.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\AWSSDK.Core.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\AWSSDK.SecurityToken.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DnsClient.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Win32.Registry.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\MongoDB.Driver.Core.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\MongoDB.Driver.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\SharpCompress.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Snappier.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\ZstdSharp.dll
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\AWSSDK.Core.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\AWSSDK.Core.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\AWSSDK.SecurityToken.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\DnsClient.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Microsoft.Win32.Registry.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\MongoDB.Driver.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\MongoDB.Driver.Core.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\Snappier.xml
+E:\work\work_by_category\Slot\PPServer\Backend(Amatic Json)\SlotGamesNode(TextDB)\bin\Debug\System.Text.Encoding.CodePages.xml

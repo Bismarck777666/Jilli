@@ -1,0 +1,64 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+import "freeSpinList.proto";
+import "WalletInfo.proto";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message GameInfoAck{
+	repeated WalletInfo WalletInfo = 1;
+	PreferRoundShow Prefer = 2;
+	int32 FreeSpinRemain = 3;
+	int32 skipField1 = 4;
+	bytes extraInfo = 5;
+	double rtp = 6;
+	repeated double jpUnlockBet = 7;
+	MallInfo mall = 8;
+	int32 ApiType = 9;
+	double FreeSpinBet = 10;
+	int32 skipField2 = 11;
+	GameMallInfo gameMall = 12;
+	double MaxOdd = 13;
+	freeSpinList freeSpin = 14;
+	int32 freeSpinType = 15;
+	Tournament tournament = 16;
+}
+
+message PreferRoundShow{
+	double BaseRound = 1;
+	double SigmaRound = 2;
+	double CV = 3;
+	double HR = 4;
+	double MGR = 5;
+	int32 Range = 6;
+	int32 Show = 7;
+}
+
+message MallInfo {
+	double PriceOdd = 1;
+	int32 DescType = 2;
+	double MaxBet = 3;
+	int32 AlterID = 4;
+	int32 Show = 5;
+}
+
+message GameMallInfo{
+	double MaxBet = 1;
+	repeated double PriceOdd = 2;
+	repeated int32 AlterID = 3;
+}
+
+message Tournament{
+	int32 id = 1;
+	double balance = 2;
+	double initBalance = 3;
+	double MinBet = 4;
+	double MaxBet = 5;
+	int32 goal = 6;
+	google.protobuf.Timestamp start = 7;
+	google.protobuf.Timestamp end = 8;
+	bool buyBonusOn = 9;
+	bool extraBetOn = 10;
+	int32 category = 11;
+}

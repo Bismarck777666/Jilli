@@ -1,0 +1,1573 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LightningDB</name>
+    </assembly>
+    <members>
+        <member name="T:LightningDB.CursorDeleteOption">
+            <summary>
+            Cursor delete operation options
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorDeleteOption.None">
+            <summary>
+            No special behavior
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorDeleteOption.NoDuplicateData">
+            <summary>
+            Only for MDB_DUPSORT
+            For put: don't write if the key and data pair already exist.
+            For mdb_cursor_del: remove all duplicate data items.
+            </summary>
+        </member>
+        <member name="T:LightningDB.CursorOperation">
+            <summary>
+            Cursor operation types
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.First">
+            <summary>
+            Position at first key/data item
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.FirstDuplicate">
+            <summary>
+            Position at first data item of current key. Only for MDB_DUPSORT
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.GetBoth">
+            <summary>
+            Position at key/data pair. Only for MDB_DUPSORT
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.GetBothRange">
+            <summary>
+            position at key, nearest data. Only for MDB_DUPSORT
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.GetCurrent">
+            <summary>
+            Return key/data at current cursor position
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.GetMultiple">
+            <summary>
+            Return all the duplicate data items at the current cursor position. Only for MDB_DUPFIXED
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.Last">
+            <summary>
+            Position at last key/data item
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.LastDuplicate">
+            <summary>
+            Position at last data item of current key. Only for MDB_DUPSORT
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.Next">
+            <summary>
+            Position at next data item
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.NextDuplicate">
+            <summary>
+            Position at next data item of current key. Only for MDB_DUPSORT
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.NextMultiple">
+            <summary>
+            Return all duplicate data items at the next cursor position. Only for MDB_DUPFIXED
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.NextNoDuplicate">
+            <summary>
+            Position at first data item of next key. Only for MDB_DUPSORT
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.Previous">
+            <summary>
+            Position at previous data item
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.PreviousDuplicate">
+            <summary>
+            Position at previous data item of current key. Only for MDB_DUPSORT
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.PreviousNoDuplicate">
+            <summary>
+            Position at last data item of previous key. Only for MDB_DUPSORT
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.Set">
+            <summary>
+            Position at specified key
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.SetKey">
+            <summary>
+            Position at specified key, return key + data
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorOperation.SetRange">
+            <summary>
+            Position at first key greater than or equal to specified key.
+            </summary>
+        </member>
+        <member name="T:LightningDB.CursorPutOptions">
+            <summary>
+            Special options for cursor put operation.
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorPutOptions.None">
+            <summary>
+            No special behavior.
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorPutOptions.Current">
+            <summary>
+            Overwrite the current key/data pair
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorPutOptions.NoDuplicateData">
+            <summary>
+            Only for MDB_DUPSORT
+            For put: don't write if the key and data pair already exist.
+            For mdb_cursor_del: remove all duplicate data items.
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorPutOptions.NoOverwrite">
+            <summary>
+            For put: Don't write if the key already exists.
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorPutOptions.ReserveSpace">
+            <summary>
+            For put: Just reserve space for data, don't copy it. Return a pointer to the reserved space.
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorPutOptions.AppendData">
+            <summary>
+            Data is being appended, don't split full pages.
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorPutOptions.AppendDuplicateData">
+            <summary>
+            Duplicate data is being appended, don't split full pages.
+            </summary>
+        </member>
+        <member name="F:LightningDB.CursorPutOptions.MultipleData">
+            <summary>
+            Store multiple data items in one call. Only for MDB_DUPFIXED.
+            </summary>
+        </member>
+        <member name="T:LightningDB.DatabaseOpenFlags">
+            <summary>
+            Flags to open a database with.
+            </summary>
+        </member>
+        <member name="F:LightningDB.DatabaseOpenFlags.None">
+            <summary>
+            No special options.
+            </summary>
+        </member>
+        <member name="F:LightningDB.DatabaseOpenFlags.ReverseKey">
+            <summary>
+            MDB_REVERSEKEY. Keys are strings to be compared in reverse order, from the end of the strings to the beginning. By default, Keys are treated as strings and compared from beginning to end.
+            </summary>
+        </member>
+        <member name="F:LightningDB.DatabaseOpenFlags.DuplicatesSort">
+            <summary>
+            MDB_DUPSORT. Duplicate keys may be used in the database. (Or, from another perspective, keys may have multiple data items, stored in sorted order.) By default keys must be unique and may have only a single data item.
+            </summary>
+        </member>
+        <member name="F:LightningDB.DatabaseOpenFlags.IntegerKey">
+            <summary>
+            MDB_INTEGERKEY. Keys are binary integers in native byte order. 
+            Setting this option requires all keys to be the same size, typically sizeof(int) or sizeof(size_t).
+            </summary>
+        </member>
+        <member name="F:LightningDB.DatabaseOpenFlags.DuplicatesFixed">
+            <summary>
+            MDB_DUPFIXED. This flag may only be used in combination with MDB_DUPSORT. This option tells the library that the data items for this database are all the same size, which allows further optimizations in storage and retrieval. When all data items are the same size, the MDB_GET_MULTIPLE and MDB_NEXT_MULTIPLE cursor operations may be used to retrieve multiple items at once.
+            </summary>
+        </member>
+        <member name="F:LightningDB.DatabaseOpenFlags.IntegerDuplicates">
+            <summary>
+            MDB_INTEGERDUP. This option specifies that duplicate data items are also integers, and should be sorted as such.
+            </summary>
+        </member>
+        <member name="F:LightningDB.DatabaseOpenFlags.ReverseDuplicates">
+            <summary>
+            MDB_REVERSEDUP. This option specifies that duplicate data items should be compared as strings in reverse order.
+            </summary>
+        </member>
+        <member name="F:LightningDB.DatabaseOpenFlags.Create">
+            <summary>
+            Create the named database if it doesn't exist. This option is not allowed in a read-only transaction or a read-only environment.
+            </summary>
+        </member>
+        <member name="T:LightningDB.EnvironmentConfiguration">
+            <summary>
+            Basic environment configuration
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentCopyFlags.Compact">
+            <summary>
+            MDB_CP_COMPACT. Compacting copy: Omit free space from copy, and renumber all pages sequentially.
+            </summary>
+        </member>
+        <member name="T:LightningDB.EnvironmentInfo">
+            <summary>
+            Information about the environment. 
+            </summary>
+        </member>
+        <member name="P:LightningDB.EnvironmentInfo.LastPageNumber">
+            <summary>
+            ID of the last used page 
+            </summary>
+        </member>
+        <member name="P:LightningDB.EnvironmentInfo.LastTransactionId">
+            <summary>
+            ID of the last committed transaction  
+            </summary>
+        </member>
+        <member name="P:LightningDB.EnvironmentInfo.MapSize">
+            <summary>
+            Size of the data memory map 
+            </summary>
+        </member>
+        <member name="T:LightningDB.EnvironmentOpenFlags">
+            <summary>
+            Options to open LMDB environment
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.None">
+            <summary>
+            No special options.
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.FixedMap">
+            <summary>
+            MDB_FIXEDMAP. use a fixed address for the mmap region. 
+            This flag must be specified when creating the environment, and is stored persistently in the environment. 
+            If successful, the memory map will always reside at the same virtual address and pointers used to reference data items in the database will be constant across multiple invocations. 
+            This option may not always work, depending on how the operating system has allocated memory to shared libraries and other uses. 
+            The feature is highly experimental.
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.NoSubDir">
+            <summary>
+            MDB_NOSUBDIR. By default, MDB creates its environment in a directory whose pathname is given in path, and creates its data and lock files under that directory. 
+            With this option, path is used as-is for the database main data file. 
+            The database lock file is the path with "-lock" appended.
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.NoSync">
+            <summary>
+            MDB_NOSYNC. Don't flush system buffers to disk when committing a transaction. 
+            This optimization means a system crash can corrupt the database or lose the last transactions if buffers are not yet flushed to disk. 
+            The risk is governed by how often the system flushes dirty buffers to disk and how often mdb_env_sync() is called. 
+            However, if the filesystem preserves write order and the MDB_WRITEMAP flag is not used, transactions exhibit ACI (atomicity, consistency, isolation) properties and only lose D (durability). 
+            I.e. database integrity is maintained, but a system crash may undo the final transactions. 
+            Note that (MDB_NOSYNC | MDB_WRITEMAP) leaves the system with no hint for when to write transactions to disk, unless mdb_env_sync() is called. 
+            (MDB_MAPASYNC | MDB_WRITEMAP) may be preferable. 
+            This flag may be changed at any time using mdb_env_set_flags().
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.ReadOnly">
+            <summary>
+            MDB_RDONLY. Open the environment in read-only mode. 
+            No write operations will be allowed. 
+            MDB will still modify the lock file - except on read-only filesystems, where MDB does not use locks.
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.NoMetaSync">
+            <summary>
+            MDB_NOMETASYNC. Flush system buffers to disk only once per transaction, omit the metadata flush. 
+            Defer that until the system flushes files to disk, or next non-MDB_RDONLY commit or mdb_env_sync(). 
+            This optimization maintains database integrity, but a system crash may undo the last committed transaction. 
+            I.e. it preserves the ACI (atomicity, consistency, isolation) but not D (durability) database property. 
+            This flag may be changed at any time using mdb_env_set_flags().
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.WriteMap">
+            <summary>
+            MDB_WRITEMAP Use a writeable memory map unless MDB_RDONLY is set. 
+            This is faster and uses fewer mallocs, but loses protection from application bugs like wild pointer writes and other bad updates into the database. 
+            Incompatible with nested transactions.
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.MapAsync">
+            <summary>
+            MDB_MAPASYNC. When using MDB_WRITEMAP, use asynchronous flushes to disk. 
+            As with MDB_NOSYNC, a system crash can then corrupt the database or lose the last transactions. 
+            Calling mdb_env_sync() ensures on-disk database integrity until next commit. 
+            This flag may be changed at any time using mdb_env_set_flags().
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.NoThreadLocalStorage">
+            <summary>
+            MDB_NOTLS. tie reader locktable slots to MDB_txn objects instead of to threads
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.NoLock">
+            <summary>
+            MDB_NOLOCK. don't do any locking, caller must manage their own locks
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.NoReadAhead">
+            <summary>
+            MDB_NORDAHEAD. don't do readahead (no effect on Windows)
+            </summary>
+        </member>
+        <member name="F:LightningDB.EnvironmentOpenFlags.NoMemoryInitialization">
+            <summary>
+            MDB_NOMEMINIT. don't initialize malloc'd memory before writing to datafile
+            </summary>
+        </member>
+        <member name="T:LightningDB.LightningCursor">
+            <summary>
+            Cursor to iterate over a database
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningCursor.#ctor(LightningDB.LightningDatabase,LightningDB.LightningTransaction)">
+            <summary>
+            Creates new instance of LightningCursor
+            </summary>
+            <param name="db">Database</param>
+            <param name="txn">Transaction</param>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Handle">
+            <summary>
+            Gets the the native handle of the cursor
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningCursor.Transaction">
+            <summary>
+            Cursor's transaction.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Set(System.Byte[])">
+            <summary>
+            Position at specified key, if key is not found index will be positioned to closest match.
+            </summary>
+            <param name="key">Key</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Set(System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Position at specified key, if key is not found index will be positioned to closest match.
+            </summary>
+            <param name="key">Key</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.SetKey(System.Byte[])">
+            <summary>
+            Moves to the key and populates Current with the values stored.
+            </summary>
+            <param name="key">Key</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/>, and <see cref="T:LightningDB.MDBValue"/> key/value</returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.SetKey(System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Moves to the key and populates Current with the values stored.
+            </summary>
+            <param name="key">Key</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/>, and <see cref="T:LightningDB.MDBValue"/> key/value</returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.GetBoth(System.Byte[],System.Byte[])">
+            <summary>
+            Position at key/data pair. Only for MDB_DUPSORT
+            </summary>
+            <param name="key">Key.</param>
+            <param name="value">Value</param>
+            <returns>Returns true if the key/value pair was found.</returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.GetBoth(System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Position at key/data pair. Only for MDB_DUPSORT
+            </summary>
+            <param name="key">Key.</param>
+            <param name="value">Value</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.GetBothRange(System.Byte[],System.Byte[])">
+            <summary>
+            position at key, nearest data. Only for MDB_DUPSORT
+            </summary>
+            <param name="key">Key</param>
+            <param name="value">Value</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.GetBothRange(System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            position at key, nearest data. Only for MDB_DUPSORT
+            </summary>
+            <param name="key">Key</param>
+            <param name="value">Value</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.SetRange(System.Byte[])">
+            <summary>
+            Position at first key greater than or equal to specified key.
+            </summary>
+            <param name="key">Key</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.SetRange(System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Position at first key greater than or equal to specified key.
+            </summary>
+            <param name="key">Key</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.First">
+            <summary>
+            Position at first key/data item
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.FirstDuplicate">
+            <summary>
+            Position at first data item of current key. Only for MDB_DUPSORT
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Last">
+            <summary>
+            Position at last key/data item
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.LastDuplicate">
+            <summary>
+            Position at last data item of current key. Only for MDB_DUPSORT
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.GetCurrent">
+            <summary>
+            Return key/data at current cursor position
+            </summary>
+            <returns>Key/data at current cursor position</returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Next">
+            <summary>
+            Position at next data item
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.NextDuplicate">
+            <summary>
+            Position at next data item of current key. Only for MDB_DUPSORT
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.NextNoDuplicate">
+            <summary>
+            Position at first data item of next key. Only for MDB_DUPSORT.
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.NextMultiple">
+            <summary>
+            Return up to a page of duplicate data items at the next cursor position. Only for MDB_DUPFIXED
+            It is assumed you know the array size to break up a single byte[] into byte[][].
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/>, and <see cref="T:LightningDB.MDBValue"/> key will be empty here, values are 2D array</returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Previous">
+            <summary>
+            Position at previous data item.
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.PreviousDuplicate">
+            <summary>
+            Position at previous data item of current key. Only for MDB_DUPSORT.
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.PreviousNoDuplicate">
+            <summary>
+            Position at last data item of previous key. Only for MDB_DUPSORT.
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Put(System.Byte[],System.Byte[],LightningDB.CursorPutOptions)">
+            <summary>
+            Store by cursor.
+            This function stores key/data pairs into the database. The cursor is positioned at the new item, or on failure usually near it.
+            Note: Earlier documentation incorrectly said errors would leave the state of the cursor unchanged.
+            If the function fails for any reason, the state of the cursor will be unchanged. 
+            If the function succeeds and an item is inserted into the database, the cursor is always positioned to refer to the newly inserted item.
+            </summary>
+            <param name="key">The key operated on.</param>
+            <param name="value">The data operated on.</param>
+            <param name="options">
+            Options for this operation. This parameter must be set to 0 or one of the values described here.
+                CursorPutOptions.Current - overwrite the data of the key/data pair to which the cursor refers with the specified data item. The key parameter is ignored.
+                CursorPutOptions.NoDuplicateData - enter the new key/data pair only if it does not already appear in the database. This flag may only be specified if the database was opened with MDB_DUPSORT. The function will return MDB_KEYEXIST if the key/data pair already appears in the database.
+                CursorPutOptions.NoOverwrite - enter the new key/data pair only if the key does not already appear in the database. The function will return MDB_KEYEXIST if the key already appears in the database, even if the database supports duplicates (MDB_DUPSORT).
+                CursorPutOptions.ReserveSpace - reserve space for data of the given size, but don't copy the given data. Instead, return a pointer to the reserved space, which the caller can fill in later. This saves an extra memcpy if the data is being generated later.
+                CursorPutOptions.AppendData - append the given key/data pair to the end of the database. No key comparisons are performed. This option allows fast bulk loading when keys are already known to be in the correct order. Loading unsorted keys with this flag will cause data corruption.
+                CursorPutOptions.AppendDuplicateData - as above, but for sorted dup data.
+            </param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Put(System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte},LightningDB.CursorPutOptions)">
+            <summary>
+            Store by cursor.
+            This function stores key/data pairs into the database. The cursor is positioned at the new item, or on failure usually near it.
+            Note: Earlier documentation incorrectly said errors would leave the state of the cursor unchanged.
+            If the function fails for any reason, the state of the cursor will be unchanged. 
+            If the function succeeds and an item is inserted into the database, the cursor is always positioned to refer to the newly inserted item.
+            </summary>
+            <param name="key">The key operated on.</param>
+            <param name="value">The data operated on.</param>
+            <param name="options">
+            Options for this operation. This parameter must be set to 0 or one of the values described here.
+                CursorPutOptions.Current - overwrite the data of the key/data pair to which the cursor refers with the specified data item. The key parameter is ignored.
+                CursorPutOptions.NoDuplicateData - enter the new key/data pair only if it does not already appear in the database. This flag may only be specified if the database was opened with MDB_DUPSORT. The function will return MDB_KEYEXIST if the key/data pair already appears in the database.
+                CursorPutOptions.NoOverwrite - enter the new key/data pair only if the key does not already appear in the database. The function will return MDB_KEYEXIST if the key already appears in the database, even if the database supports duplicates (MDB_DUPSORT).
+                CursorPutOptions.ReserveSpace - reserve space for data of the given size, but don't copy the given data. Instead, return a pointer to the reserved space, which the caller can fill in later. This saves an extra memcpy if the data is being generated later.
+                CursorPutOptions.AppendData - append the given key/data pair to the end of the database. No key comparisons are performed. This option allows fast bulk loading when keys are already known to be in the correct order. Loading unsorted keys with this flag will cause data corruption.
+                CursorPutOptions.AppendDuplicateData - as above, but for sorted dup data.
+            </param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Put(System.Byte[],System.Byte[][])">
+            <summary>
+            Store by cursor.
+            This function stores key/data pairs into the database. 
+            If the function fails for any reason, the state of the cursor will be unchanged. 
+            If the function succeeds and an item is inserted into the database, the cursor is always positioned to refer to the newly inserted item.
+            </summary>
+            <param name="key">The key operated on.</param>
+            <param name="values">The data items operated on.</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.GetMultiple">
+            <summary>
+            Return up to a page of the duplicate data items at the current cursor position. Only for MDB_DUPFIXED
+            It is assumed you know the array size to break up a single byte[] into byte[][].
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/>, and <see cref="T:LightningDB.MDBValue"/> key will be empty here, values are 2D array</returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Delete(LightningDB.CursorDeleteOption)">
+            <summary>
+            Delete current key/data pair.
+            This function deletes the key/data pair to which the cursor refers.
+            </summary>
+            <param name="option">Options for this operation. This parameter must be set to 0 or one of the values described here.
+                MDB_NODUPDATA - delete all of the data items for the current key. This flag may only be specified if the database was opened with MDB_DUPSORT.</param>
+        </member>
+        <member name="M:LightningDB.LightningCursor.DeleteDuplicateData">
+            <summary>
+            Delete current key/data pair.
+            This function deletes the key/data range for which duplicates are found.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Delete">
+            <summary>
+            Delete current key/data pair.
+            This function deletes the key/data pair to which the cursor refers.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Renew">
+            <summary>
+            Renew a cursor handle.
+            Cursors are associated with a specific transaction and database and may not span threads. 
+            Cursors that are only used in read-only transactions may be re-used, to avoid unnecessary malloc/free overhead. 
+            The cursor may be associated with a new read-only transaction, and referencing the same database handle as it was created with.
+            </summary>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Renew(LightningDB.LightningTransaction)">
+            <summary>
+            Renew a cursor handle.
+            Cursors are associated with a specific transaction and database and may not span threads. 
+            Cursors that are only used in read-only transactions may be re-used, to avoid unnecessary malloc/free overhead. 
+            The cursor may be associated with a new read-only transaction, and referencing the same database handle as it was created with.
+            </summary>
+            <param name="txn">Transaction to renew in.</param>
+            <returns>Returns <see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Dispose(System.Boolean)">
+            <summary>
+            Closes the cursor and deallocates all resources associated with it.
+            </summary>
+            <param name="disposing">True if called from Dispose.</param>
+        </member>
+        <member name="M:LightningDB.LightningCursor.Dispose">
+            <summary>
+            Closes the cursor and deallocates all resources associated with it.
+            </summary>
+        </member>
+        <member name="T:LightningDB.LightningDatabase">
+            <summary>
+            Lightning database.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningDatabase.#ctor(System.String,LightningDB.LightningTransaction,LightningDB.DatabaseConfiguration,System.Boolean)">
+            <summary>
+            Creates a LightningDatabase instance.
+            </summary>
+            <param name="name">Database name.</param>
+            <param name="transaction">Active transaction.</param>
+            <param name="configuration">Options for the database, like encoding, option flags, and comparison logic.</param>
+            <param name="closeOnDispose">Close database handle on dispose</param>
+        </member>
+        <member name="P:LightningDB.LightningDatabase.IsReleased">
+            <summary>
+            Whether the database handle has been release from Dispose, or from unsuccessful OpenDatabase call.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningDatabase.IsOpened">
+            <summary>
+            Is database opened.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningDatabase.Name">
+            <summary>
+            Database name.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningDatabase.Environment">
+            <summary>
+            Environment in which the database was opened.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningDatabase.Drop(LightningDB.LightningTransaction)">
+            <summary>
+            Drops the database.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningDatabase.Truncate(LightningDB.LightningTransaction)">
+            <summary>
+            Truncates all data from the database.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningDatabase.Dispose(System.Boolean)">
+            <summary>
+            Deallocates resources opened by the database.
+            </summary>
+            <param name="disposing">true if called from Dispose.</param>
+        </member>
+        <member name="M:LightningDB.LightningDatabase.Dispose">
+            <summary>
+            Deallocates resources opened by the database.
+            </summary>
+        </member>
+        <member name="T:LightningDB.LightningEnvironment">
+            <summary>
+            LMDB Environment.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningEnvironment.#ctor(System.String,LightningDB.EnvironmentConfiguration)">
+            <summary>
+            Creates a new instance of LightningEnvironment.
+            </summary>
+            <param name="path">Directory for storing database files.</param>
+            <param name="configuration">Configuration for the environment.</param>
+        </member>
+        <member name="P:LightningDB.LightningEnvironment.IsOpened">
+            <summary>
+            Whether the environment is opened.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningEnvironment.Version">
+            <summary>
+            Current lmdb version.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningEnvironment.MapSize">
+            <summary>
+            Gets or Sets the size of the memory map to use for this environment.
+            The size of the memory map is also the maximum size of the database. 
+            The size should be a multiple of the OS page size. 
+            The default is 10485760 bytes. 
+            </summary>
+            <remarks>
+            The value should be chosen as large as possible, to accommodate future growth of the database. 
+            This function may only be called before the environment is opened.
+            The size may be changed by closing and reopening the environment.  
+            Any attempt to set a size smaller than the space already consumed by the environment will be silently changed to the current size of the used space. 
+            </remarks>
+        </member>
+        <member name="P:LightningDB.LightningEnvironment.MaxReaders">
+            <summary>
+            Get the maximum number of threads for the environment.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningEnvironment.MaxDatabases">
+            <summary>
+            Set the maximum number of named databases for the environment.
+            This function is only needed if multiple databases will be used in the environment. 
+            Simpler applications that use the environment as a single unnamed database can ignore this option. 
+            This function may only be called before the environment is opened.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningEnvironment.EnvironmentStats">
+            <summary>
+            Get statistics about the LMDB environment. 
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningEnvironment.Info">
+            <summary>
+            Gets information about the LMDB environment. 
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningEnvironment.Path">
+            <summary>
+            Directory path to store database files.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningEnvironment.Open(LightningDB.EnvironmentOpenFlags,LightningDB.UnixAccessMode)">
+            <summary>
+            Open the environment.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningEnvironment.BeginTransaction(LightningDB.LightningTransaction,LightningDB.TransactionBeginFlags)">
+            <summary>
+            Create a transaction for use with the environment.
+            The transaction handle may be discarded using Abort() or Commit().
+            Note:
+            Transactions may not span threads; a transaction must only be used by a single thread. Also, a thread may only have a single transaction.
+            Cursors may not span transactions; each cursor must be opened and closed within a single transaction.
+            </summary>
+            <param name="parent">
+            If this parameter is non-NULL, the new transaction will be a nested transaction, with the transaction indicated by parent as its parent. 
+            Transactions may be nested to any level. 
+            A parent transaction may not issue any other operations besides BeginTransaction, Abort, or Commit while it has active child transactions.
+            </param>
+            <param name="beginFlags">
+            Special options for this transaction. 
+            </param>
+            <returns>
+            New LightningTransaction
+            </returns>
+        </member>
+        <member name="M:LightningDB.LightningEnvironment.BeginTransaction(LightningDB.TransactionBeginFlags)">
+            <summary>
+            Create a transaction for use with the environment.
+            The transaction handle may be discarded usingAbort() or Commit().
+            Note:
+            Transactions may not span threads; a transaction must only be used by a single thread. Also, a thread may only have a single transaction.
+            Cursors may not span transactions; each cursor must be opened and closed within a single transaction.
+            </summary>
+            <param name="beginFlags">
+            Special options for this transaction. 
+            </param>
+            <returns>
+            New LightningTransaction
+            </returns>
+        </member>
+        <member name="M:LightningDB.LightningEnvironment.CopyTo(System.String,System.Boolean)">
+            <summary>
+            Copy an MDB environment to the specified path.
+            This function may be used to make a backup of an existing environment.
+            </summary>
+            <param name="path">The directory in which the copy will reside. This directory must already exist and be writable but must otherwise be empty.</param>
+            <param name="compact">Omit empty pages when copying.</param>
+        </member>
+        <member name="M:LightningDB.LightningEnvironment.Flush(System.Boolean)">
+            <summary>
+            Flush the data buffers to disk. 
+            Data is always written to disk when LightningTransaction.Commit is called, but the operating system may keep it buffered. 
+            MDB always flushes the OS buffers upon commit as well, unless the environment was opened with EnvironmentOpenFlags.NoSync or in part EnvironmentOpenFlags.NoMetaSync.
+            </summary>
+            <param name="force">If true, force a synchronous flush. Otherwise if the environment has the EnvironmentOpenFlags.NoSync flag set the flushes will be omitted, and with MDB_MAPASYNC they will be asynchronous.</param>
+        </member>
+        <member name="M:LightningDB.LightningEnvironment.Dispose(System.Boolean)">
+            <summary>
+            Disposes the environment and deallocates all resources associated with it.
+            </summary>
+            <param name="disposing">True if called from Dispose.</param>
+        </member>
+        <member name="M:LightningDB.LightningEnvironment.Dispose">
+            <summary>
+            Dispose the environment and release the memory map.
+            Only a single thread may call this function. All transactions, databases, and cursors must already be closed before calling this function. 
+            Attempts to use any such handles after calling this function will cause a SIGSEGV. 
+            The environment handle will be freed and must not be used again after this call.
+            </summary>
+        </member>
+        <member name="T:LightningDB.LightningException">
+            <summary>
+            An exception caused by lmdb operations.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningException.StatusCode">
+            <summary>
+            The status code LMDB returned from an operation.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningExtensions.ThrowOnReadError(LightningDB.MDBResultCode)">
+            <summary>
+            Throws a <see cref="T:LightningDB.LightningException"/> on anything other than NotFound, or Success
+            </summary>
+            <param name="resultCode">The result code to evaluate for errors</param>
+            <returns><see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningExtensions.ThrowOnError(LightningDB.MDBResultCode)">
+            <summary>
+            Throws a <see cref="T:LightningDB.LightningException"/> on anything other than Success
+            </summary>
+            <param name="resultCode">The result code to evaluate for errors</param>
+            <returns><see cref="T:LightningDB.MDBResultCode"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningExtensions.ThrowOnReadError(System.ValueTuple{LightningDB.MDBResultCode,LightningDB.MDBValue,LightningDB.MDBValue})">
+            <summary>
+            Throws a <see cref="T:LightningDB.LightningException"/> on anything other than NotFound, or Success 
+            </summary>
+            <param name="result">A <see cref="T:System.ValueTuple"/> representing the get result operation</param>
+            <returns>The provided <see cref="T:System.ValueTuple"/> if no error occurs</returns>
+        </member>
+        <member name="M:LightningDB.LightningExtensions.AsEnumerable(LightningDB.LightningCursor)">
+            <summary>
+            Enumerates the key/value pairs of the <see cref="T:LightningDB.LightningCursor"/> starting at the current position.
+            </summary>
+            <param name="cursor"><see cref="T:LightningDB.LightningCursor"/></param>
+            <returns><see cref="T:System.ValueTuple"/> key/value pairs of <see cref="T:LightningDB.MDBValue"/></returns>
+        </member>
+        <member name="M:LightningDB.LightningExtensions.TryGet(LightningDB.LightningTransaction,LightningDB.LightningDatabase,System.Byte[],System.Byte[]@)">
+            <summary>
+            Tries to get a value by its key.
+            </summary>
+            <param name="tx">The transaction.</param>
+            <param name="db">The database to query.</param>
+            <param name="key">A span containing the key to look up.</param>
+            <param name="value">A byte array containing the value found in the database, if it exists.</param>
+            <returns>True if key exists, false if not.</returns>
+        </member>
+        <member name="M:LightningDB.LightningExtensions.TryGet(LightningDB.LightningTransaction,LightningDB.LightningDatabase,System.ReadOnlySpan{System.Byte},System.Byte[]@)">
+            <summary>
+            Tries to get a value by its key.
+            </summary>
+            <param name="tx">The transaction.</param>
+            <param name="db">The database to query.</param>
+            <param name="key">A span containing the key to look up.</param>
+            <param name="value">A byte array containing the value found in the database, if it exists.</param>
+            <returns>True if key exists, false if not.</returns>
+        </member>
+        <member name="M:LightningDB.LightningExtensions.TryGet(LightningDB.LightningTransaction,LightningDB.LightningDatabase,System.ReadOnlySpan{System.Byte},System.Byte[])">
+            <summary>
+            Tries to get a value by its key.
+            </summary>
+            <param name="tx">The transaction.</param>
+            <param name="db">The database to query.</param>
+            <param name="key">A span containing the key to look up.</param>
+            <param name="destinationValueBuffer">
+            A buffer to receive the value data retrieved from the database
+            </param>
+            <returns>True if key exists, false if not.</returns>
+        </member>
+        <member name="M:LightningDB.LightningExtensions.ContainsKey(LightningDB.LightningTransaction,LightningDB.LightningDatabase,System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Check whether data exists in database.
+            </summary>
+            <param name="tx">The transaction.</param>
+            <param name="db">The database to query.</param>
+            <param name="key">A span containing the key to look up.</param>
+            <returns>True if key exists, false if not.</returns>
+        </member>
+        <member name="M:LightningDB.LightningExtensions.ContainsKey(LightningDB.LightningTransaction,LightningDB.LightningDatabase,System.Byte[])">
+            <summary>
+            Check whether data exists in database.
+            </summary>
+            <param name="tx">The transaction.</param>
+            <param name="db">The database to query.</param>
+            <param name="key">A span containing the key to look up.</param>
+            <returns>True if key exists, false if not.</returns>
+        </member>
+        <member name="T:LightningDB.LightningTransaction">
+            <summary>
+            Represents a transaction.
+            </summary>
+        </member>
+        <member name="F:LightningDB.LightningTransaction.DefaultTransactionBeginFlags">
+            <summary>
+            Default options used to begin new transactions.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.#ctor(LightningDB.LightningEnvironment,LightningDB.LightningTransaction,LightningDB.TransactionBeginFlags)">
+            <summary>
+            Created new instance of LightningTransaction
+            </summary>
+            <param name="environment">Environment.</param>
+            <param name="parent">Parent transaction or null.</param>
+            <param name="flags">Transaction open options.</param>
+        </member>
+        <member name="P:LightningDB.LightningTransaction.State">
+            <summary>
+            Current transaction state.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.BeginTransaction(LightningDB.TransactionBeginFlags)">
+            <summary>
+            Begin a child transaction.
+            </summary>
+            <param name="beginFlags">Options for a new transaction.</param>
+            <returns>New child transaction.</returns>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.OpenDatabase(System.String,LightningDB.DatabaseConfiguration,System.Boolean)">
+            <summary>
+            Opens a database in context of this transaction.
+            </summary>
+            <param name="name">Database name (optional). If null then the default name is used.</param>
+            <param name="configuration">Database open options.</param>
+            <param name="closeOnDispose">Close database handle on dispose</param>
+            <returns>Created database wrapper.</returns>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.DropDatabase(LightningDB.LightningDatabase)">
+            <summary>
+            Drops the database.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.TruncateDatabase(LightningDB.LightningDatabase)">
+            <summary>
+            Truncates all data from the database.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.CreateCursor(LightningDB.LightningDatabase)">
+            <summary>
+            Create a cursor.
+            Cursors are associated with a specific transaction and database and may not span threads.
+            </summary>
+            <param name="db">A database.</param>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Get(LightningDB.LightningDatabase,System.Byte[])">
+            <summary>
+            Get value from a database.
+            </summary>
+            <param name="db">The database to query.</param>
+            <param name="key">An array containing the key to look up.</param>
+            <returns>Requested value's byte array if exists, or null if not.</returns>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Get(LightningDB.LightningDatabase,System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Get value from a database.
+            </summary>
+            <param name="db">The database to query.</param>
+            <param name="key">A span containing the key to look up.</param>
+            <returns>Requested value's byte array if exists, or null if not.</returns>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Put(LightningDB.LightningDatabase,System.Byte[],System.Byte[],LightningDB.PutOptions)">
+            <summary>
+            Put data into a database.
+            </summary>
+            <param name="db">The database to query.</param>
+            <param name="key">A span containing the key to look up.</param>
+            <param name="value">A byte array containing the value found in the database, if it exists.</param>
+            <param name="options">Operation options (optional).</param>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Put(LightningDB.LightningDatabase,System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte},LightningDB.PutOptions)">
+            <summary>
+            Put data into a database.
+            </summary>
+            <param name="db">Database.</param>
+            <param name="key">Key byte array.</param>
+            <param name="value">Value byte array.</param>
+            <param name="options">Operation options (optional).</param>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Delete(LightningDB.LightningDatabase,System.Byte[],System.Byte[])">
+            <summary>
+            Delete items from a database.
+            This function removes key/data pairs from the database.
+            If the database does not support sorted duplicate data items (MDB_DUPSORT) the data parameter is ignored.
+            If the database supports sorted duplicates and the data parameter is NULL, all of the duplicate data items for the key will be deleted.
+            Otherwise, if the data parameter is non-NULL only the matching data item will be deleted.
+            This function will return MDB_NOTFOUND if the specified key/data pair is not in the database.
+            </summary>
+            <param name="db">A database handle returned by mdb_dbi_open()</param>
+            <param name="key">The key to delete from the database</param>
+            <param name="value">The data to delete (optional)</param>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Delete(LightningDB.LightningDatabase,System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Delete items from a database.
+            This function removes key/data pairs from the database.
+            If the database does not support sorted duplicate data items (MDB_DUPSORT) the data parameter is ignored.
+            If the database supports sorted duplicates and the data parameter is NULL, all of the duplicate data items for the key will be deleted.
+            Otherwise, if the data parameter is non-NULL only the matching data item will be deleted.
+            This function will return MDB_NOTFOUND if the specified key/data pair is not in the database.
+            </summary>
+            <param name="db">A database handle returned by mdb_dbi_open()</param>
+            <param name="key">The key to delete from the database</param>
+            <param name="value">The data to delete (optional)</param>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Delete(LightningDB.LightningDatabase,System.Byte[])">
+            <summary>
+            Delete items from a database.
+            This function removes key/data pairs from the database. 
+            If the database does not support sorted duplicate data items (MDB_DUPSORT) the data parameter is ignored. 
+            If the database supports sorted duplicates and the data parameter is NULL, all of the duplicate data items for the key will be deleted. 
+            Otherwise, if the data parameter is non-NULL only the matching data item will be deleted. 
+            This function will return MDB_NOTFOUND if the specified key/data pair is not in the database.
+            </summary>
+            <param name="db">A database handle returned by mdb_dbi_open()</param>
+            <param name="key">The key to delete from the database</param>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Delete(LightningDB.LightningDatabase,System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Delete items from a database.
+            This function removes key/data pairs from the database. 
+            If the database does not support sorted duplicate data items (MDB_DUPSORT) the data parameter is ignored. 
+            If the database supports sorted duplicates and the data parameter is NULL, all of the duplicate data items for the key will be deleted. 
+            Otherwise, if the data parameter is non-NULL only the matching data item will be deleted. 
+            This function will return MDB_NOTFOUND if the specified key/data pair is not in the database.
+            </summary>
+            <param name="db">A database handle returned by mdb_dbi_open()</param>
+            <param name="key">The key to delete from the database</param>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Reset">
+            <summary>
+            Reset current transaction.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Renew">
+            <summary>
+            Renew current transaction.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Commit">
+            <summary>
+            Commit all the operations of a transaction into the database.
+            All cursors opened within the transaction will be closed by this call. 
+            The cursors and transaction handle will be freed and must not be used again after this call.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Abort">
+            <summary>
+            Abandon all the operations of the transaction instead of saving them.
+            All cursors opened within the transaction will be closed by this call.
+            The cursors and transaction handle will be freed and must not be used again after this call.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.GetEntriesCount(LightningDB.LightningDatabase)">
+            <summary>
+            The number of items in the database.
+            </summary>
+            <param name="db">The database we are counting items in.</param>
+            <returns>The number of items.</returns>
+        </member>
+        <member name="P:LightningDB.LightningTransaction.Environment">
+            <summary>
+            Environment in which the transaction was opened.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningTransaction.ParentTransaction">
+            <summary>
+            Parent transaction of this transaction.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningTransaction.IsReadOnly">
+            <summary>
+            Whether this transaction is read-only.
+            </summary>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Dispose(System.Boolean)">
+            <summary>
+            Abort this transaction and deallocate all resources associated with it (including databases).
+            </summary>
+            <param name="disposing">True if called from Dispose.</param>
+        </member>
+        <member name="M:LightningDB.LightningTransaction.Dispose">
+            <summary>
+            Dispose this transaction and deallocate all resources associated with it (including databases).
+            </summary>
+        </member>
+        <member name="T:LightningDB.LightningTransactionState">
+            <summary>
+            Transaction state.
+            </summary>
+        </member>
+        <member name="F:LightningDB.LightningTransactionState.Active">
+            <summary>
+            Transaction is currently active.
+            </summary>
+        </member>
+        <member name="F:LightningDB.LightningTransactionState.Reseted">
+            <summary>
+            Transaction is currently reseted.
+            </summary>
+        </member>
+        <member name="F:LightningDB.LightningTransactionState.Aborted">
+            <summary>
+            Transaction is aborted.
+            </summary>
+        </member>
+        <member name="F:LightningDB.LightningTransactionState.Commited">
+            <summary>
+            Transaction is commited.
+            </summary>
+        </member>
+        <member name="T:LightningDB.LightningVersionInfo">
+            <summary>
+            Represents lmdb version information.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningVersionInfo.Major">
+            <summary>
+            Major version number.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningVersionInfo.Minor">
+            <summary>
+            Minor version number.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningVersionInfo.Patch">
+            <summary>
+            Patch version number.
+            </summary>
+        </member>
+        <member name="P:LightningDB.LightningVersionInfo.Version">
+            <summary>
+            Version string.
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.Success">
+            <summary>
+            Successful result
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.KeyExist">
+            <summary>
+            key/data pair already exists
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.NotFound">
+            <summary>
+            key/data pair not found (EOF)
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.PageNotFound">
+            <summary>
+            Requested page not found - this usually indicates corruption
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.Corrupted">
+            <summary>
+            Located page was wrong type
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.Panic">
+            <summary>
+            Update of meta page failed or environment had fatal error
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.VersionMismatch">
+            <summary>
+            Environment version mismatch
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.Invalid">
+            <summary>
+            File is not a valid LMDB file
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.MapFull">
+            <summary>
+            Environment mapsize reached
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.DbsFull">
+            <summary>
+            Environment maxdbs reached
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.ReadersFull">
+            <summary>
+            Environment maxreaders reached
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.TLSFull">
+            <summary>
+            Too many TLS keys in use - Windows only
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.TxnFull">
+            <summary>
+            Txn has too many dirty pages
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.CursorFull">
+            <summary>
+            Cursor stack too deep - internal error
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.PageFull">
+            <summary>
+            Page has not enough space - internal error
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.MapResized">
+            <summary>
+            Database contents grew beyond environment mapsize
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.Incompatible">
+            <summary>
+            Operation and DB incompatible, or DB type changed. This can mean:
+            - The operation expects an #MDB_DUPSORT / #MDB_DUPFIXED database.
+            - Opening a named DB when the unnamed DB has #MDB_DUPSORT / #MDB_INTEGERKEY.
+            - Accessing a data record as a database, or vice versa.
+            - The database was dropped and recreated with different flags.
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.BadRSlot">
+            <summary>
+            Invalid reuse of reader locktable slot
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.BadTxn">
+            <summary>
+            Transaction must abort, has a child, or is invalid
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.BadValSize">
+            <summary>
+            Unsupported size of key/DB name/data, or wrong DUPFIXED size
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.BadDBI">
+            <summary>
+            The specified DBI was changed unexpectedly
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.Problem">
+            <summary>
+            Unexpected problem - txn should abort
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.FileNotFound">
+            <summary>
+            ENOENT error from C-runtime
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.AccessDenied">
+            <summary>
+            EIO error from C-runtime
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.InvalidAccess">
+            <summary>
+            ENOMEM error from C-runtime
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.InvalidData">
+            <summary>
+            EACCES error from C-runtime
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.CurrentDirectory">
+            <summary>
+            EBUSY error from C-runtime
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.BadCommand">
+            <summary>
+            EINVAL error from C-runtime
+            </summary>
+        </member>
+        <member name="F:LightningDB.MDBResultCode.OutOfPaper">
+            <summary>
+            ENOSPC error from C-runtime
+            </summary>
+        </member>
+        <member name="T:LightningDB.MDBValue">
+            <summary>
+            A managed version of the native MDB_val type
+            </summary>
+            <remarks>
+            For Performance and Correctness, the layout of this struct must not be changed. 
+            This struct is blittable and is marshalled directly to Native code via
+            P/Invoke.
+            </remarks>
+        </member>
+        <member name="M:LightningDB.MDBValue.#ctor(System.Int32,System.Byte*)">
+            <remarks>
+            We only expose this shape constructor to basically force you to use
+            a fixed statement to obtain the pointer. If we accepted a Span or 
+            ReadOnlySpan here, we would have to do scarier things to pin/unpin
+            the buffer. Since this library is geared towards safe and easy usage,
+            this way somewhat forces you onto the correct path.
+            
+            </remarks>
+            <param name="bufferSize">The length of the buffer</param>
+            <param name="pinnedOrStackAllocBuffer">A pointer to a buffer. 
+            The underlying memory may be managed(an array), unmanaged or stack-allocated.
+            If it is managed, it **MUST** be pinned via either GCHandle.Alloc or a fixed statement
+            </param>
+        </member>
+        <member name="M:LightningDB.MDBValue.AsSpan">
+            <summary>
+            Gets a span representation of the buffer
+            </summary>
+        </member>
+        <member name="M:LightningDB.MDBValue.CopyToNewArray">
+            <summary>
+            Copies the data of the buffer to a new array
+            </summary>
+            <returns>A newly allocated array containing data copied from the de-referenced data pointer</returns>
+            <remarks>Equivalent to AsSpan().ToArray() but makes intent a little more clear</remarks>
+        </member>
+        <member name="F:LightningDB.Native.Lmdb.MDB_DUPSORT">
+            <summary>
+            Duplicate keys may be used in the database. (Or, from another perspective, keys may have multiple data items, stored in sorted order.) By default keys must be unique and may have only a single data item.
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.Lmdb.MDB_DUPFIXED">
+            <summary>
+            This flag may only be used in combination with MDB_DUPSORT. This option tells the library that the data items for this database are all the same size, which allows further optimizations in storage and retrieval. When all data items are the same size, the MDB_GET_MULTIPLE and MDB_NEXT_MULTIPLE cursor operations may be used to retrieve multiple items at once.
+            </summary>
+        </member>
+        <member name="M:LightningDB.Native.Lmdb.mdb_cursor_put(System.IntPtr,LightningDB.MDBValue@,System.Span{LightningDB.MDBValue}@,LightningDB.CursorPutOptions)">
+            <summary>
+            store multiple contiguous data elements in a single request.
+            May only be used with MDB_DUPFIXED.
+            </summary>
+            <param name="data">This span must be pinned or stackalloc memory</param>
+        </member>
+        <member name="T:LightningDB.Native.MDBEnvInfo">
+            <summary>
+            Information about the environment. 
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBEnvInfo.me_mapaddr">
+            <summary>
+            Address of map, if fixed
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBEnvInfo.me_mapsize">
+            <summary>
+            Size of the data memory map
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBEnvInfo.me_last_pgno">
+            <summary>
+            ID of the last used page
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBEnvInfo.me_last_txnid">
+            <summary>
+            ID of the last committed transaction
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBEnvInfo.me_maxreaders">
+            <summary>
+            max reader slots in the environment
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBEnvInfo.me_numreaders">
+            <summary>
+            max reader slots used in the environment
+            </summary>
+        </member>
+        <member name="T:LightningDB.Native.MDBStat">
+            <summary>
+            Statistics for a database in the environment. 
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBStat.ms_psize">
+            <summary>
+            Size of a database page. This is currently the same for all databases.
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBStat.ms_depth">
+            <summary>
+            Depth (height) of the B-tree
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBStat.ms_branch_pages">
+            <summary>
+            Number of internal (non-leaf) pages
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBStat.ms_leaf_pages">
+            <summary>
+            Number of leaf pages
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBStat.ms_overflow_pages">
+            <summary>
+            Number of overflow pages
+            </summary>
+        </member>
+        <member name="F:LightningDB.Native.MDBStat.ms_entries">
+            <summary>
+            Number of data items
+            </summary>
+        </member>
+        <member name="T:LightningDB.PutOptions">
+            <summary>
+            Special options for put operation.
+            </summary>
+        </member>
+        <member name="F:LightningDB.PutOptions.None">
+            <summary>
+            No special behavior.
+            </summary>
+        </member>
+        <member name="F:LightningDB.PutOptions.NoDuplicateData">
+            <summary>
+            Only for MDB_DUPSORT
+            For put: don't write if the key and data pair already exist.
+            For mdb_cursor_del: remove all duplicate data items.
+            </summary>
+        </member>
+        <member name="F:LightningDB.PutOptions.NoOverwrite">
+            <summary>
+            For put: Don't write if the key already exists.
+            </summary>
+        </member>
+        <member name="F:LightningDB.PutOptions.ReserveSpace">
+            <summary>
+            For put: Just reserve space for data, don't copy it. Return a pointer to the reserved space.
+            </summary>
+        </member>
+        <member name="F:LightningDB.PutOptions.AppendData">
+            <summary>
+            Data is being appended, don't split full pages.
+            </summary>
+        </member>
+        <member name="F:LightningDB.PutOptions.AppendDuplicateData">
+            <summary>
+            Duplicate data is being appended, don't split full pages.
+            </summary>
+        </member>
+        <member name="T:LightningDB.Stats">
+            <summary>
+            Statistics for a database in the environment. 
+            </summary>
+        </member>
+        <member name="P:LightningDB.Stats.PageSize">
+            <summary>
+            Size of a database page. This is currently the same for all databases. 
+            </summary>
+        </member>
+        <member name="P:LightningDB.Stats.BTreeDepth">
+            <summary>
+            Depth (height) of the B-tree 
+            </summary>
+        </member>
+        <member name="P:LightningDB.Stats.BranchPages">
+            <summary>
+            Number of internal (non-leaf) pages 
+            </summary>
+        </member>
+        <member name="P:LightningDB.Stats.LeafPages">
+            <summary>
+            Number of leaf pages 
+            </summary>
+        </member>
+        <member name="P:LightningDB.Stats.OverflowPages">
+            <summary>
+            Number of overflow pages 
+            </summary>
+        </member>
+        <member name="P:LightningDB.Stats.Entries">
+            <summary>
+            Number of data items 
+            </summary>
+        </member>
+        <member name="T:LightningDB.TransactionBeginFlags">
+            <summary>
+            Transaction open mode
+            </summary>
+        </member>
+        <member name="F:LightningDB.TransactionBeginFlags.None">
+            <summary>
+            Normal mode
+            </summary>
+        </member>
+        <member name="F:LightningDB.TransactionBeginFlags.NoSync">
+            <summary>
+            MDB_NOSYNC. Don't flush system buffers to disk when committing a transaction.
+            This optimization means a system crash can corrupt the database or lose the last transactions if buffers are not yet flushed to disk.
+            The risk is governed by how often the system flushes dirty buffers to disk and how often mdb_env_sync() is called.
+            However, if the filesystem preserves write order and the MDB_WRITEMAP flag is not used, transactions exhibit ACI (atomicity, consistency, isolation) properties and only lose D (durability).
+            I.e. database integrity is maintained, but a system crash may undo the final transactions.
+            Note that (MDB_NOSYNC | MDB_WRITEMAP) leaves the system with no hint for when to write transactions to disk, unless mdb_env_sync() is called.
+            (MDB_MAPASYNC | MDB_WRITEMAP) may be preferable.
+            This flag may be changed at any time using mdb_env_set_flags().
+            </summary>
+        </member>
+        <member name="F:LightningDB.TransactionBeginFlags.ReadOnly">
+            <summary>
+            MDB_RDONLY. Open the environment in read-only mode. 
+            No write operations will be allowed. 
+            MDB will still modify the lock file - except on read-only filesystems, where MDB does not use locks.
+            </summary>
+        </member>
+        <member name="F:LightningDB.TransactionBeginFlags.NoMetaSync">
+            <summary>
+            MDB_NOMETASYNC. Flush system buffers to disk only once per transaction, omit the metadata flush.
+            Defer that until the system flushes files to disk, or next non-MDB_RDONLY commit or mdb_env_sync().
+            This optimization maintains database integrity, but a system crash may undo the last committed transaction.
+            I.e. it preserves the ACI (atomicity, consistency, isolation) but not D (durability) database property.
+            This flag may be changed at any time using mdb_env_set_flags().
+            </summary>
+        </member>
+        <member name="T:LightningDB.UnixAccessMode">
+            <summary>
+            Unix file access privileges
+            </summary>
+        </member>
+        <member name="F:LightningDB.UnixAccessMode.OwnerRead">
+            <summary>
+            S_IRUSR
+            </summary>
+        </member>
+        <member name="F:LightningDB.UnixAccessMode.OwnerWrite">
+            <summary>
+            S_IWUSR
+            </summary>
+        </member>
+        <member name="F:LightningDB.UnixAccessMode.OwnerExec">
+            <summary>
+            S_IXUSR
+            </summary>
+        </member>
+        <member name="F:LightningDB.UnixAccessMode.GroupRead">
+            <summary>
+            S_IRGRP
+            </summary>
+        </member>
+        <member name="F:LightningDB.UnixAccessMode.GroupWrite">
+            <summary>
+            S_IWGRP
+            </summary>
+        </member>
+        <member name="F:LightningDB.UnixAccessMode.GroupExec">
+            <summary>
+            S_IXGRP
+            </summary>
+        </member>
+        <member name="F:LightningDB.UnixAccessMode.OtherRead">
+            <summary>
+            S_IROTH
+            </summary>
+        </member>
+        <member name="F:LightningDB.UnixAccessMode.OtherWrite">
+            <summary>
+            S_IWOTH
+            </summary>
+        </member>
+        <member name="F:LightningDB.UnixAccessMode.OtherExec">
+            <summary>
+            S_IXOTH
+            </summary>
+        </member>
+        <member name="F:LightningDB.UnixAccessMode.Default">
+            <summary>
+            Owner, Group, Other Read/Write
+            </summary>
+        </member>
+    </members>
+</doc>

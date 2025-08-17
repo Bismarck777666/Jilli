@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package Jili.Protocols.dts;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double Bet = 2;
+	double FreeTotalWin = 3;
+	double TotalWin = 4;
+	string ShowIndex = 5;
+	double NowMoney = 6;
+	int32 AckType = 7;
+	double RTP = 8;
+	int32 FGReel = 9;
+	repeated int32 CrackLevels = 10;
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataVec = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	int32 FreeNowRound = 5;
+	int32 FreeTotalRound = 6;
+	double RoundWin = 7;
+	double FireMultiple = 8;
+	double ThunderOdd = 9;
+	bool ReachMaxOdd = 10;
+	repeated bool AddCrack = 11;
+	bool MaxFlag = 12;
+	repeated int32 AddCrackLv = 13;
+}
+
+
+message Column{
+	repeated int32 Col = 1;
+
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+}

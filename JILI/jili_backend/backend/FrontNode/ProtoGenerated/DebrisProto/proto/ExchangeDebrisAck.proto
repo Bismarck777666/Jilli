@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.DebrisProto";
+
+message ExchangeDebrisAck{
+	uint32 result = 1;
+    uint32 awardtype = 2;   
+    uint32 itemno = 3;
+    uint32 amount = 4;
+    uint32 iicon = 5;
+}

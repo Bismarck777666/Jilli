@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LonghuListMixPlayerV2.proto";
+
+option csharp_namespace = "Jili.Protocols.LonghuProto";
+
+message LonghuListMixPlayerAdminV3{
+    repeated LonghuListMixPlayerV2 playerList = 1;
+}

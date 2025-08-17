@@ -1,0 +1,71 @@
+syntax = "proto3";
+
+package Jili.Protocols.cc;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	repeated StateInfo LastInfo = 4;
+	double JPFrontBefore = 5;
+	double RTP = 6;
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated int32 NewWildPos = 2;
+	repeated int32 NowWildPos = 3;
+	repeated int32 RedEnvelopePos = 4;
+	int32 RedEnvelopeWin = 5;
+	double RoundWin = 6;
+	repeated JPData JPPlate = 7;
+	repeated AwardData AwardDataVec = 8;
+	int32 AwardTypeFlag = 9;
+	int32 GameType = 10;
+	int32 FreeRemainRound = 11;
+	int32 FreeNowRound = 12;
+	int32 FreeTotalRound = 13;
+	int32 WildSymbol = 14;
+	repeated FGRedCoin FGRedCoins = 15;
+	repeated bool AddCrack = 16;
+	bool MaxFlag = 17;
+	repeated int32 AddCrackLv = 18;
+	repeated int32 CrackLevels = 19;
+}
+
+message Column {
+    repeated int32 Column = 1;
+}
+
+message JPData {
+	repeated int32 SymbolSerial = 1;
+	double Win = 2;
+	int32 HitSymbol = 3;
+	int32 JPType = 4;
+	bool IsUpgraded = 5;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 LineNum = 3;
+	double Win = 4;
+}
+
+message StateInfo{
+	repeated int32 CrackLevels = 1;
+	repeated WildRecordSet WildRecordVec = 2;
+}
+
+message WildRecordSet {
+	double Bet = 1;
+	repeated int32 Pos = 2;
+}
+
+message FGRedCoin{
+	int32 Pos = 1;
+	int32 AddRound = 2;
+	double Win = 3;
+}
+
+

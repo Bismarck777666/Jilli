@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package Jili.Protocols.Sweetheart4;
+
+message AllPlate {
+	repeated Plate plate = 1;
+}
+
+message Plate {
+	repeated ColumnData Column = 1;
+	repeated AwardReel Award = 2;
+	double Win = 3;
+	uint32 BallCount = 4;
+	double BonusWin = 5;
+	BubbleInfo bubbleInfo = 6;
+}
+
+message ColumnData {
+	repeated Cell Row = 1;
+}
+
+message Cell {
+	int32 Symbol = 1;
+	double Value = 2;
+	bool isConnect = 3;
+}
+
+message AwardReel {
+	uint32 Line = 1;
+	repeated Block Block = 2;
+	double Win = 3;
+}
+
+message Block {
+	uint32 Row = 1;
+	uint32 Column = 2;
+}
+
+message BubbleInfo {
+	repeated BubbleDetail Bubble = 1;
+}
+
+message BubbleDetail {
+	int32 Row = 1;
+	uint32 Column = 2;
+	uint32 Size = 3;
+	double Value = 4;
+	bool isConnect = 5;
+	double Bet = 6;
+	uint32 X = 7;
+}

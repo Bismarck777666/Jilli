@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package Jili.Protocols.rc;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double BonusTotalWin = 2;
+	double TotalWin = 3;
+	double RTP = 4;
+	int32 LID = 5;
+	int32 RID =6;
+}
+
+message RoundInfo{
+	repeated Column Symbol = 1;
+	repeated ColumnM Mul = 2;
+	repeated Column FinalSymbol = 3;
+	repeated ColumnM FinalMul = 4;
+	repeated AwardData AwardDataVec =5;
+	double RoundWin = 6;
+	repeated PotSymbol PotList = 7;
+	int32 BonusRemainRound  = 8;
+	int32 BonusTotalRound = 9;
+	bool GetBonus = 10;
+	int32 AwardTypeFlag  =11;
+	bool MaxFlag = 12;
+}
+
+message PotSymbol {
+	int32 Pos = 1;
+	int32 Symbol = 2;
+	double Mul = 3;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message ColumnM{
+	repeated double Col = 1;
+}
+
+message AwardData{
+	int32 Atype = 1;
+	int32 Index = 2;
+	int32 Symbol = 3;
+	int32 Pos  =4;
+	double Mul = 5;
+	double Win = 6;
+}
+
+
+

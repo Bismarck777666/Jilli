@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Lighthouse\\Lighthouse.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "FrontNode\\FrontNode.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiNode\\ApiNode.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "UserNode\\UserNode.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiIntegration\\ApiIntegration.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SlotNode\\SlotNode.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

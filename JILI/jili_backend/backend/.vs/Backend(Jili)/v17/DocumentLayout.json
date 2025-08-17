@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project\\004.Slot\\Source\\Jili\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619F5EF1-1674-4E98-B168-CA201383EBC9}|SlotNode\\SlotNode.csproj|e:\\project\\004.slot\\source\\jili\\backend\\slotnode\\gamelogics\\baseclasses\\basejilislotgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619F5EF1-1674-4E98-B168-CA201383EBC9}|SlotNode\\SlotNode.csproj|solutionrelative:slotnode\\gamelogics\\baseclasses\\basejilislotgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84F825-2D14-46C7-84F0-6FC94A5B050B}|FrontNode\\FrontNode.csproj|e:\\project\\004.slot\\source\\jili\\backend\\frontnode\\httpservice\\jiliwebapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A84F825-2D14-46C7-84F0-6FC94A5B050B}|FrontNode\\FrontNode.csproj|solutionrelative:frontnode\\httpservice\\jiliwebapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84F825-2D14-46C7-84F0-6FC94A5B050B}|FrontNode\\FrontNode.csproj|e:\\project\\004.slot\\source\\jili\\backend\\frontnode\\protogenerated\\serverproto\\proto\\gameinfoack.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3A84F825-2D14-46C7-84F0-6FC94A5B050B}|FrontNode\\FrontNode.csproj|solutionrelative:frontnode\\protogenerated\\serverproto\\proto\\gameinfoack.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619F5EF1-1674-4E98-B168-CA201383EBC9}|SlotNode\\SlotNode.csproj|e:\\project\\004.slot\\source\\jili\\backend\\slotnode\\gamelogics\\jiligames\\fgpgamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619F5EF1-1674-4E98-B168-CA201383EBC9}|SlotNode\\SlotNode.csproj|solutionrelative:slotnode\\gamelogics\\jiligames\\fgpgamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A84F825-2D14-46C7-84F0-6FC94A5B050B}|FrontNode\\FrontNode.csproj|e:\\project\\004.slot\\source\\jili\\backend\\frontnode\\protogenerated\\serverproto\\proto\\walletinfo.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3A84F825-2D14-46C7-84F0-6FC94A5B050B}|FrontNode\\FrontNode.csproj|solutionrelative:frontnode\\protogenerated\\serverproto\\proto\\walletinfo.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619F5EF1-1674-4E98-B168-CA201383EBC9}|SlotNode\\SlotNode.csproj|e:\\project\\004.slot\\source\\jili\\backend\\slotnode\\gamelogics\\jiligames\\fullhousegamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619F5EF1-1674-4E98-B168-CA201383EBC9}|SlotNode\\SlotNode.csproj|solutionrelative:slotnode\\gamelogics\\jiligames\\fullhousegamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619F5EF1-1674-4E98-B168-CA201383EBC9}|SlotNode\\SlotNode.csproj|e:\\project\\004.slot\\source\\jili\\backend\\slotnode\\gamelogics\\jiligames\\sajgamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619F5EF1-1674-4E98-B168-CA201383EBC9}|SlotNode\\SlotNode.csproj|solutionrelative:slotnode\\gamelogics\\jiligames\\sajgamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseJiliSlotGame.cs",
+              "DocumentMoniker": "E:\\project\\004.Slot\\Source\\Jili\\backend\\SlotNode\\GameLogics\\BaseClasses\\BaseJiliSlotGame.cs",
+              "RelativeDocumentMoniker": "SlotNode\\GameLogics\\BaseClasses\\BaseJiliSlotGame.cs",
+              "ToolTip": "E:\\project\\004.Slot\\Source\\Jili\\backend\\SlotNode\\GameLogics\\BaseClasses\\BaseJiliSlotGame.cs",
+              "RelativeToolTip": "SlotNode\\GameLogics\\BaseClasses\\BaseJiliSlotGame.cs",
+              "ViewState": "AgIAAJoDAAAAAAAAAAAQwGoDAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:11:28.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameInfoAck.proto",
+              "DocumentMoniker": "E:\\project\\004.Slot\\Source\\Jili\\backend\\FrontNode\\ProtoGenerated\\ServerProto\\Proto\\GameInfoAck.proto",
+              "RelativeDocumentMoniker": "FrontNode\\ProtoGenerated\\ServerProto\\Proto\\GameInfoAck.proto",
+              "ToolTip": "E:\\project\\004.Slot\\Source\\Jili\\backend\\FrontNode\\ProtoGenerated\\ServerProto\\Proto\\GameInfoAck.proto",
+              "RelativeToolTip": "FrontNode\\ProtoGenerated\\ServerProto\\Proto\\GameInfoAck.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-07-19T14:52:47.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WalletInfo.proto",
+              "DocumentMoniker": "E:\\project\\004.Slot\\Source\\Jili\\backend\\FrontNode\\ProtoGenerated\\ServerProto\\Proto\\WalletInfo.proto",
+              "RelativeDocumentMoniker": "FrontNode\\ProtoGenerated\\ServerProto\\Proto\\WalletInfo.proto",
+              "ToolTip": "E:\\project\\004.Slot\\Source\\Jili\\backend\\FrontNode\\ProtoGenerated\\ServerProto\\Proto\\WalletInfo.proto",
+              "RelativeToolTip": "FrontNode\\ProtoGenerated\\ServerProto\\Proto\\WalletInfo.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-07-19T14:41:02.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SajGameLogic.cs",
+              "DocumentMoniker": "E:\\project\\004.Slot\\Source\\Jili\\backend\\SlotNode\\GameLogics\\JiliGames\\SajGameLogic.cs",
+              "RelativeDocumentMoniker": "SlotNode\\GameLogics\\JiliGames\\SajGameLogic.cs",
+              "ToolTip": "E:\\project\\004.Slot\\Source\\Jili\\backend\\SlotNode\\GameLogics\\JiliGames\\SajGameLogic.cs",
+              "RelativeToolTip": "SlotNode\\GameLogics\\JiliGames\\SajGameLogic.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA8wGYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:15:01.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JiliWebApiController.cs",
+              "DocumentMoniker": "E:\\project\\004.Slot\\Source\\Jili\\backend\\FrontNode\\HTTPService\\JiliWebApiController.cs",
+              "RelativeDocumentMoniker": "FrontNode\\HTTPService\\JiliWebApiController.cs",
+              "ToolTip": "E:\\project\\004.Slot\\Source\\Jili\\backend\\FrontNode\\HTTPService\\JiliWebApiController.cs",
+              "RelativeToolTip": "FrontNode\\HTTPService\\JiliWebApiController.cs",
+              "ViewState": "AgIAADwDAAAAAAAAAAAiwFIDAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:33:36.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FGPGameLogic.cs",
+              "DocumentMoniker": "E:\\project\\004.Slot\\Source\\Jili\\backend\\SlotNode\\GameLogics\\JiliGames\\FGPGameLogic.cs",
+              "RelativeDocumentMoniker": "SlotNode\\GameLogics\\JiliGames\\FGPGameLogic.cs",
+              "ToolTip": "E:\\project\\004.Slot\\Source\\Jili\\backend\\SlotNode\\GameLogics\\JiliGames\\FGPGameLogic.cs",
+              "RelativeToolTip": "SlotNode\\GameLogics\\JiliGames\\FGPGameLogic.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:13:31.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FullhouseGameLogic.cs",
+              "DocumentMoniker": "E:\\project\\004.Slot\\Source\\Jili\\backend\\SlotNode\\GameLogics\\JiliGames\\FullhouseGameLogic.cs",
+              "RelativeDocumentMoniker": "SlotNode\\GameLogics\\JiliGames\\FullhouseGameLogic.cs",
+              "ToolTip": "E:\\project\\004.Slot\\Source\\Jili\\backend\\SlotNode\\GameLogics\\JiliGames\\FullhouseGameLogic.cs",
+              "RelativeToolTip": "SlotNode\\GameLogics\\JiliGames\\FullhouseGameLogic.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:07:30.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

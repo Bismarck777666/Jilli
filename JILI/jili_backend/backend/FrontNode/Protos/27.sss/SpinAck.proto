@@ -1,0 +1,51 @@
+syntax = "proto3";
+
+package Jili.Protocols.sss;
+
+message SpinAck {
+	repeated AckInfo PlateInfo= 1;
+	double TotalWin = 2;
+	string ShowIndex = 3;
+	double NowMoney =4;
+	string AckType = 5;
+	double RTP = 6;
+}
+
+message AckInfo {
+	repeated Column MainPlate = 1;
+	repeated AwardData AwardDataList = 2;
+	int32 AwardTypeFlag = 3;
+	repeated BonusAckData Bonus = 4;
+	double MainWin = 5;
+	double BonusTotalWin = 6;
+	double TotalWin = 7;
+	repeated double JPWin = 8;
+	JPInfo JPInfo = 9;
+	int32 PuzzleWeightNum = 10;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message BonusAckData {
+	repeated BonusRoundData RoundData = 1;
+	double BonusWin = 2;
+}
+
+message BonusRoundData {
+	repeated Column Plate = 1;
+	repeated AwardData AwardDataList = 2;
+	double RoundWin = 3;
+	bool IsJP = 4;
+}
+
+message AwardData {
+	int32 AwardSymbol = 1;
+	int32 AwardLine = 2;
+	double AwardMoney = 3;
+}
+
+message JPInfo {
+	repeated double Fronts = 1;
+}

@@ -1,0 +1,63 @@
+syntax = "proto3";
+
+package Jili.Protocols.tct;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 7;
+	double Bet = 8;
+	int32 FolderIndex = 9;
+	repeated int32 CrackLevels = 10;
+}
+
+message RoundInfo {
+	repeated Column MainPlateSymbol = 1;
+	repeated CColumn FreePlateSymbol = 2;
+	repeated CColumn FreePlateSymbolLog = 3;
+	repeated AwardData AwardDataVec = 4;
+	int32 AwardTypeFlag = 5;
+	double RoundWin = 6;
+	int32 FreeRemainRound = 7;
+	int32 FreeNowRound = 8;
+	int32 SkipType = 9;
+	int32 MGReelWeightResult = 10;
+	repeated FeatureEffect BlueData = 11;
+	repeated FeatureEffect RedData = 12;
+	repeated FeatureEffect GreenData = 13;
+	repeated bool AddCrack = 14;
+	bool MaxFlag  = 15;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+}
+
+message FeatureEffect {
+	int32 ScatterPos = 1;
+	repeated int32 EffectPos = 2;
+	int32 JPState = 3;
+	double Number = 4;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message CColumn {
+	repeated CSymbol Col = 1;
+}
+
+message CSymbol {
+	int32 Symbol = 1;
+	int32 JPState = 2;
+	int32 JPMult = 3;
+	double Number = 4;
+}

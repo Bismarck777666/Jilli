@@ -1,0 +1,1073 @@
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.AssemblyReference.cache
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.CoreCompileInputs.cache
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotGamesNode.exe
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotGamesNode.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\mongocrypt.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\config.hocon
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.config
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.exe.config
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.exe
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Cluster.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Logger.NLog.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Remote.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DnsClient.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Buffers.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Codecs.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Common.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Handlers.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Transport.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.SqlServer.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\GITProtocol.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Win32.Registry.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Bson.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.Core.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Newtonsoft.Json.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SharpCompress.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Snappier.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\StackExchange.Redis.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Buffers.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Collections.Immutable.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.IO.Pipelines.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Memory.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Numerics.Vectors.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.AccessControl.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Permissions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Channels.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Topshelf.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\ZstdSharp.dll
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\GITProtocol.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Cluster.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Logger.NLog.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Remote.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DnsClient.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Buffers.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Codecs.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Common.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Handlers.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Transport.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.SqlServer.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.pdb
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Win32.Registry.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Bson.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.Core.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Newtonsoft.Json.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Snappier.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\StackExchange.Redis.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Buffers.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Collections.Immutable.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.IO.Pipelines.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Memory.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Numerics.Vectors.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.AccessControl.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Permissions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Channels.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Topshelf.xml
+E:\work\work_by_category\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.Up2Date
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\mongocrypt.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\config.hocon
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.config
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.exe.config
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.exe
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.pdb
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Cluster.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Logger.NLog.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Remote.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DnsClient.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Buffers.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Codecs.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Common.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Handlers.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Transport.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.SqlServer.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\GITProtocol.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Win32.Registry.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Bson.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.Core.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Newtonsoft.Json.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SharpCompress.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Snappier.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\StackExchange.Redis.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Buffers.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Collections.Immutable.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.IO.Pipelines.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Memory.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Numerics.Vectors.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.AccessControl.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Permissions.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Channels.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Topshelf.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\ZstdSharp.dll
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\GITProtocol.pdb
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Cluster.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Logger.NLog.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Remote.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.pdb
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DnsClient.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Buffers.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Codecs.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Common.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Handlers.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Transport.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.SqlServer.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.pdb
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Win32.Registry.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Bson.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.Core.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Newtonsoft.Json.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Snappier.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\StackExchange.Redis.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Buffers.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Collections.Immutable.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.IO.Pipelines.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Memory.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Numerics.Vectors.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.AccessControl.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Permissions.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Channels.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Topshelf.xml
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.AssemblyReference.cache
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.CoreCompileInputs.cache
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.Up2Date
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotGamesNode.exe
+E:\work\Slot\PPServer\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotGamesNode.pdb
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.AssemblyReference.cache
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.CoreCompileInputs.cache
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotGamesNode.exe
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotGamesNode.pdb
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\mongocrypt.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\config.hocon
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.config
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.exe.config
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.exe
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.pdb
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Cluster.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Logger.NLog.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Remote.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DnsClient.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Buffers.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Codecs.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Common.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Handlers.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Transport.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\GITProtocol.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Bson.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SharpCompress.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Snappier.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\StackExchange.Redis.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Buffers.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Collections.Immutable.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.IO.Pipelines.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Memory.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Permissions.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Channels.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Topshelf.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\ZstdSharp.dll
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\GITProtocol.pdb
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Cluster.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Logger.NLog.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Remote.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.pdb
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DnsClient.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Buffers.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Codecs.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Common.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Handlers.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Transport.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.pdb
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Bson.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Snappier.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\StackExchange.Redis.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Buffers.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Collections.Immutable.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.IO.Pipelines.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Memory.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Permissions.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Channels.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Topshelf.xml
+C:\Users\bismarck\Desktop\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.Up2Date
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\mongocrypt.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\config.hocon
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.config
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.exe.config
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.exe
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SlotGamesNode.pdb
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Cluster.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Logger.NLog.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Remote.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DnsClient.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Buffers.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Codecs.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Common.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Handlers.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Transport.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\GITProtocol.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Win32.Registry.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Bson.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.Core.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Newtonsoft.Json.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\SharpCompress.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Snappier.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\StackExchange.Redis.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Buffers.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Collections.Immutable.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.IO.Pipelines.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Memory.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Numerics.Vectors.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.AccessControl.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Permissions.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Principal.Windows.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Channels.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Topshelf.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\ZstdSharp.dll
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\GITProtocol.pdb
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Cluster.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Logger.NLog.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Akka.Remote.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.pdb
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.Core.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.pdb
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\AWSSDK.SecurityToken.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DnsClient.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Buffers.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Codecs.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Common.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Handlers.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\DotNetty.Transport.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.pdb
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Google.Protobuf.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Microsoft.Win32.Registry.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Bson.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\MongoDB.Driver.Core.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Newtonsoft.Json.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\NLog.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Snappier.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\StackExchange.Redis.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Buffers.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Collections.Immutable.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.IO.Pipelines.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Memory.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Numerics.Vectors.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.AccessControl.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Permissions.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Security.Principal.Windows.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Channels.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\bin\Debug\Topshelf.xml
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.AssemblyReference.cache
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.CoreCompileInputs.cache
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotNode.csproj.Up2Date
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotGamesNode.exe
+F:\Project\GitSlot\04_Temp\Backend(GitSlotPark AmaticSeamless)\SlotNode\obj\Debug\SlotGamesNode.pdb
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\mongocrypt.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\config.hocon
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\NLog.config
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.exe.config
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.exe
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.pdb
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Akka.Cluster.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Akka.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Akka.Logger.NLog.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Akka.Remote.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DnsClient.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DotNetty.Buffers.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DotNetty.Codecs.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DotNetty.Common.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DotNetty.Handlers.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DotNetty.Transport.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\EntityFramework.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\GITProtocol.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Microsoft.Win32.Registry.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\MongoDB.Bson.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.Core.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Newtonsoft.Json.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\NLog.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\SharpCompress.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Snappier.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\StackExchange.Redis.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Buffers.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Collections.Immutable.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.IO.Pipelines.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Memory.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Numerics.Vectors.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Security.AccessControl.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Security.Permissions.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Security.Principal.Windows.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Threading.Channels.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Topshelf.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\ZstdSharp.dll
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\GITProtocol.pdb
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Akka.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Akka.Cluster.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Akka.Logger.NLog.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Akka.Remote.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.pdb
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.pdb
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DnsClient.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DotNetty.Buffers.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DotNetty.Codecs.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DotNetty.Common.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DotNetty.Handlers.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\DotNetty.Transport.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\EntityFramework.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.pdb
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Microsoft.Win32.Registry.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\MongoDB.Bson.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.Core.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Newtonsoft.Json.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\NLog.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Snappier.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\StackExchange.Redis.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Buffers.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Collections.Immutable.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.IO.Pipelines.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Memory.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Numerics.Vectors.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Security.AccessControl.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Security.Permissions.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Security.Principal.Windows.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Threading.Channels.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\bin\Debug\Topshelf.xml
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.AssemblyReference.cache
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.CoreCompileInputs.cache
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.Up2Date
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\obj\Debug\SlotGamesNode.exe
+F:\Project\GitSlot\01_Works\01_Server\Backend_JILI\SlotNode\obj\Debug\SlotGamesNode.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\mongocrypt.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\config.hocon
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\NLog.config
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.exe.config
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.exe
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Akka.Cluster.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Akka.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Akka.Logger.NLog.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Akka.Remote.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DnsClient.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DotNetty.Buffers.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DotNetty.Codecs.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DotNetty.Common.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DotNetty.Handlers.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DotNetty.Transport.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\EntityFramework.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\EntityFramework.SqlServer.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\GITProtocol.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Microsoft.Win32.Registry.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\MongoDB.Bson.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.Core.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Newtonsoft.Json.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\NLog.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\SharpCompress.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Snappier.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\StackExchange.Redis.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Buffers.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Collections.Immutable.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.IO.Pipelines.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Memory.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Numerics.Vectors.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Security.AccessControl.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Security.Permissions.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Threading.Channels.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Topshelf.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\ZstdSharp.dll
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\GITProtocol.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Akka.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Akka.Cluster.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Akka.Logger.NLog.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Akka.Remote.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DnsClient.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DotNetty.Buffers.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DotNetty.Codecs.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DotNetty.Common.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DotNetty.Handlers.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\DotNetty.Transport.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\EntityFramework.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\EntityFramework.SqlServer.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Microsoft.Win32.Registry.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\MongoDB.Bson.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.Core.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Newtonsoft.Json.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\NLog.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Snappier.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\StackExchange.Redis.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Buffers.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Collections.Immutable.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.IO.Pipelines.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Memory.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Numerics.Vectors.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Security.AccessControl.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Security.Permissions.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Threading.Channels.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\bin\Debug\Topshelf.xml
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.AssemblyReference.cache
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.CoreCompileInputs.cache
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\obj\Debug\SlotGamesNode.exe
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\obj\Debug\SlotGamesNode.pdb
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.Up2Date
+E:\1_Workspace\9_slotclone\Backend_JILI\SlotNode\obj\Debug\SlotGamesNode.exe.config
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\mongocrypt.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\config.hocon
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\NLog.config
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.exe.config
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.exe
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.pdb
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Akka.Cluster.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Akka.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Akka.Logger.NLog.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Akka.Remote.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DnsClient.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DotNetty.Buffers.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DotNetty.Codecs.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DotNetty.Common.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DotNetty.Handlers.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DotNetty.Transport.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\EntityFramework.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\GITProtocol.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Microsoft.Win32.Registry.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\MongoDB.Bson.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.Core.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Newtonsoft.Json.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\NLog.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\SharpCompress.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Snappier.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\StackExchange.Redis.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Buffers.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Collections.Immutable.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.IO.Pipelines.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Memory.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Numerics.Vectors.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Security.AccessControl.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Security.Permissions.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Security.Principal.Windows.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Threading.Channels.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Topshelf.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\ZstdSharp.dll
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\GITProtocol.pdb
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Akka.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Akka.Cluster.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Akka.Logger.NLog.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Akka.Remote.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.pdb
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.pdb
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DnsClient.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DotNetty.Buffers.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DotNetty.Codecs.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DotNetty.Common.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DotNetty.Handlers.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\DotNetty.Transport.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\EntityFramework.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.pdb
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Microsoft.Win32.Registry.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\MongoDB.Bson.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.Core.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Newtonsoft.Json.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\NLog.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Snappier.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\StackExchange.Redis.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Buffers.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Collections.Immutable.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.IO.Pipelines.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Memory.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Numerics.Vectors.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Security.AccessControl.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Security.Permissions.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Security.Principal.Windows.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Threading.Channels.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\bin\Debug\Topshelf.xml
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.AssemblyReference.cache
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.CoreCompileInputs.cache
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.Up2Date
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\obj\Debug\SlotGamesNode.exe
+F:\Project\117_JiliSlot\01_Works\11701_Backend\Backend_JILI\SlotNode\obj\Debug\SlotGamesNode.pdb
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\mongocrypt.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\config.hocon
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\NLog.config
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.exe.config
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.exe
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\SlotGamesNode.pdb
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Akka.Cluster.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Akka.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Akka.Logger.NLog.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Akka.Remote.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DnsClient.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DotNetty.Buffers.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DotNetty.Codecs.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DotNetty.Common.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DotNetty.Handlers.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DotNetty.Transport.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\EntityFramework.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\EntityFramework.SqlServer.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\GITProtocol.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Microsoft.Win32.Registry.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\MongoDB.Bson.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.Core.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Newtonsoft.Json.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\NLog.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\SharpCompress.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Snappier.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\StackExchange.Redis.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Buffers.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Collections.Immutable.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.IO.Pipelines.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Memory.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Numerics.Vectors.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Security.AccessControl.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Security.Permissions.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Threading.Channels.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Topshelf.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\ZstdSharp.dll
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\GITProtocol.pdb
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Akka.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Akka.Cluster.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Akka.Logger.NLog.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Akka.Remote.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.pdb
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\AWSSDK.Core.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\AWSSDK.SecurityToken.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DnsClient.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DotNetty.Buffers.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DotNetty.Codecs.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DotNetty.Common.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DotNetty.Handlers.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\DotNetty.Transport.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\EntityFramework.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\EntityFramework.SqlServer.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.pdb
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Google.Protobuf.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Microsoft.Win32.Registry.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\MongoDB.Bson.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\MongoDB.Driver.Core.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Newtonsoft.Json.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\NLog.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Snappier.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\StackExchange.Redis.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Buffers.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Collections.Immutable.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.IO.Pipelines.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Memory.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Numerics.Vectors.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Security.AccessControl.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Security.Permissions.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Threading.Channels.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\bin\Debug\Topshelf.xml
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.AssemblyReference.cache
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\obj\Debug\SlotGamesNode.exe.config
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.CoreCompileInputs.cache
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\obj\Debug\SlotNode.csproj.Up2Date
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\obj\Debug\SlotGamesNode.exe
+E:\1_Workspace\9_slotclone\cherry\Backend_JILI\SlotNode\obj\Debug\SlotGamesNode.pdb
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\mongocrypt.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\config.hocon
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\NLog.config
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\SlotGamesNode.exe.config
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\SlotGamesNode.exe
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\SlotGamesNode.pdb
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Akka.Cluster.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Akka.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Akka.Logger.NLog.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Akka.Remote.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\AWSSDK.Core.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\AWSSDK.SecurityToken.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DnsClient.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DotNetty.Buffers.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DotNetty.Codecs.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DotNetty.Common.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DotNetty.Handlers.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DotNetty.Transport.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\EntityFramework.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\EntityFramework.SqlServer.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\GITProtocol.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Google.Protobuf.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Microsoft.Win32.Registry.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\MongoDB.Bson.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\MongoDB.Driver.Core.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\MongoDB.Driver.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Newtonsoft.Json.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\NLog.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\SharpCompress.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Snappier.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\StackExchange.Redis.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Buffers.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Collections.Immutable.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.IO.Pipelines.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Memory.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Numerics.Vectors.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Security.AccessControl.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Security.Permissions.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Threading.Channels.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Topshelf.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\ZstdSharp.dll
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\GITProtocol.pdb
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Akka.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Akka.Cluster.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Akka.Logger.NLog.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Akka.Remote.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\AWSSDK.Core.pdb
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\AWSSDK.Core.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\AWSSDK.SecurityToken.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DnsClient.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DotNetty.Buffers.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DotNetty.Codecs.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DotNetty.Common.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DotNetty.Handlers.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\DotNetty.Transport.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\EntityFramework.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\EntityFramework.SqlServer.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Google.Protobuf.pdb
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Google.Protobuf.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Microsoft.Win32.Registry.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\MongoDB.Bson.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\MongoDB.Driver.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\MongoDB.Driver.Core.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Newtonsoft.Json.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\NLog.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Snappier.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\StackExchange.Redis.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Buffers.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Collections.Immutable.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.IO.Pipelines.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Memory.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Numerics.Vectors.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Security.AccessControl.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Security.Permissions.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Threading.Channels.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\bin\Debug\Topshelf.xml
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\obj\Debug\SlotNode.csproj.AssemblyReference.cache
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\obj\Debug\SlotGamesNode.exe.config
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\obj\Debug\SlotNode.csproj.CoreCompileInputs.cache
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\obj\Debug\SlotNode.csproj.Up2Date
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\obj\Debug\SlotGamesNode.exe
+E:\1_Workspace\9_slotclone\cherry\jili_tiger\SlotNode\obj\Debug\SlotGamesNode.pdb
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\mongocrypt.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\config.hocon
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\NLog.config
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\SlotGamesNode.exe.config
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\SlotGamesNode.exe
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\SlotGamesNode.pdb
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Akka.Cluster.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Akka.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Akka.Logger.NLog.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Akka.Remote.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\AWSSDK.Core.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\AWSSDK.SecurityToken.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DnsClient.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DotNetty.Buffers.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DotNetty.Codecs.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DotNetty.Common.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DotNetty.Handlers.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DotNetty.Transport.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\EntityFramework.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\EntityFramework.SqlServer.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\GITProtocol.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Google.Protobuf.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Microsoft.Win32.Registry.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\MongoDB.Bson.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\MongoDB.Driver.Core.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\MongoDB.Driver.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Newtonsoft.Json.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\NLog.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\SharpCompress.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Snappier.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\StackExchange.Redis.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Buffers.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Collections.Immutable.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.IO.Pipelines.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Memory.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Numerics.Vectors.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Security.AccessControl.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Security.Permissions.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Security.Principal.Windows.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Threading.Channels.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Topshelf.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\ZstdSharp.dll
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\GITProtocol.pdb
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Akka.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Akka.Cluster.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Akka.Logger.NLog.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Akka.Remote.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\AWSSDK.Core.pdb
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\AWSSDK.Core.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\AWSSDK.SecurityToken.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DnsClient.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DotNetty.Buffers.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DotNetty.Codecs.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DotNetty.Common.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DotNetty.Handlers.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\DotNetty.Transport.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\EntityFramework.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\EntityFramework.SqlServer.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Google.Protobuf.pdb
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Google.Protobuf.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Microsoft.Win32.Registry.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\MongoDB.Bson.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\MongoDB.Driver.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\MongoDB.Driver.Core.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Newtonsoft.Json.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\NLog.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Snappier.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\StackExchange.Redis.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Buffers.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Collections.Immutable.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.IO.Pipelines.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Memory.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Numerics.Vectors.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Security.AccessControl.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Security.Permissions.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Security.Principal.Windows.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Threading.Channels.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\bin\Debug\Topshelf.xml
+E:\project\004.Slot\Source\Jili\backend\SlotNode\obj\Debug\SlotNode.csproj.AssemblyReference.cache
+E:\project\004.Slot\Source\Jili\backend\SlotNode\obj\Debug\SlotNode.csproj.CoreCompileInputs.cache
+E:\project\004.Slot\Source\Jili\backend\SlotNode\obj\Debug\SlotNode.csproj.Up2Date
+E:\project\004.Slot\Source\Jili\backend\SlotNode\obj\Debug\SlotGamesNode.exe
+E:\project\004.Slot\Source\Jili\backend\SlotNode\obj\Debug\SlotGamesNode.pdb

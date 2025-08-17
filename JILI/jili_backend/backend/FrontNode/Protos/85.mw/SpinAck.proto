@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+package Jili.Protocols.Mw;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double RTP = 7;
+}
+
+message RoundInfo {
+	repeated ComboStageInfo ComboStageData = 1;
+	double RoundWin = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	int32 FreeCollectionCount = 5;
+	int32 FreeCollectionLv = 6;
+	int32 ScatterCount = 7;
+}
+
+message ComboStageInfo {
+	repeated ColumnData ComboStageSymbol = 1;
+	double ComboStageWin = 2;
+	double ComboStageMult = 3;
+	int32 MysteryTarget = 4;
+	repeated AwardData AwardDataVec = 5;
+	repeated ColumnData FillSymbols = 6;
+	repeated ColumnData NewFrameSymbols = 7;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 LineNum = 3;
+	double Win = 4;
+	repeated Grid GridVec = 5;
+}
+
+message ColumnData {
+	repeated int32 Column = 1;
+}
+
+message Grid {
+	int32 Col = 1;
+	int32 Row = 2;
+}

@@ -1,0 +1,64 @@
+syntax = "proto3";
+
+package Jili.Protocols.afr;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double Bet = 7;
+	double RTP = 8;
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataVec = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	int32 FreeNowRound = 5;
+	int32 AddRound = 6;
+	int32 FGNowBeans = 7;
+	int32 FGNowLevel = 8;
+	int32 MysterySymbol = 9;
+	repeated int32 NewBeans = 10;
+	repeated int32 UpdatePos = 11;
+	repeated int32 MysteryPos = 12;
+	double RoundWin = 13;
+	double AvgPrice  = 14;
+	repeated ColumnDouble Top3 = 15;
+	repeated int32 RandomTransSymbols = 16;
+	repeated int32 RandomTransPos = 17;
+	repeated Column PlateSymbolLog  =18;
+	repeated int32 NewBeansLog = 19;
+	StateInfo State = 20;
+	bool MaxFlag = 21;
+}
+
+message StateInfo {
+	repeated Column SyncPlateSymbol = 1;
+	repeated int32 MysteryPos = 2;
+	repeated int32 NewBeans = 3;
+	double AvgPrice = 4;
+	double Bet = 5;
+	bool Done = 6;
+	repeated ColumnDouble Top3 = 7;
+}
+
+message ColumnDouble{
+	repeated double Col = 1;
+}
+
+message Column {
+	repeated int32 Col = 1;
+}
+
+message AwardData {
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+	repeated int32 PosVec = 5;
+}

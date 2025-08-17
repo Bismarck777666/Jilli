@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "LonghuListMixV3.proto";
+
+option csharp_namespace = "Jili.Protocols.LonghuProto";
+
+message LonghuListResponseV3{
+    int32 errorCode = 1;
+    string message = 2;
+    LonghuListMixV3 data = 3;
+    int64 resetTime = 4;
+}

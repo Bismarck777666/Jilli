@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+package Jili.Protocols.twinwins;
+
+message SpinAck {
+	repeated Plate plate = 1;
+}
+
+message Plate{
+	repeated ColumnData column = 1;
+	double win = 2;
+	repeated int32 sameReel = 3;
+}
+
+message ColumnData {
+	repeated Cell row = 1;
+}
+
+message Cell {
+	int32 symbol = 1;
+	bool isConnect = 2;
+}

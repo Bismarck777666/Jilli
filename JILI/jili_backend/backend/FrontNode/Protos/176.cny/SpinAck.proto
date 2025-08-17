@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package Jili.Protocols.cny;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney= 5;
+	int32 AckType = 6;
+	int32 skipType1 = 7;
+	int32 skipType2 = 8;
+	int32 skipType3 = 9;
+	int32 skipType4 = 10;
+	int32 skipType5 = 11;
+	double RTP = 12;
+	int32 LID = 13;
+	int32 RID = 14;
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataVec = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	int32 FreeTotalRound = 5;
+	double RoundWin = 6;
+	double Mult = 7;
+	int32 AddRound = 8;
+	double AddMult = 9;
+	int32 ScatterCount = 10;
+	bool HasMR = 11;
+}
+
+message Column{
+	repeated int32 Row = 1;
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+	repeated int32 PosVec = 5;
+}
+

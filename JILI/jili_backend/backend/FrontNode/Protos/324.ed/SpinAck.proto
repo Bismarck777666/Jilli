@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package Jili.Protocols.ed;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	double FreeTotalWin = 2;
+	double TotalWin = 3;
+	string ShowIndex = 4;
+	double NowMoney = 5;
+	int32 AckType = 6;
+	double Bet = 7;
+	double RTP = 8;
+}
+
+message RoundInfo{
+	repeated Column PlateSymbol = 1;
+	repeated AwardData AwardDataVec = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	int32 FreeNowRound = 5;
+	int32 FreeTotalRound = 6;
+	int32 AddRound = 7;
+	double RoundWin = 8;
+	double TotalMult = 9;
+	
+	repeated int32 WildExpandTimes = 10;
+	bool MaxFlag = 11;
+	repeated Column PlateSymbolChanged = 12;
+}
+
+
+message Column{
+	repeated int32 Row = 1;
+
+}
+
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line = 3;
+	double Win = 4;
+}

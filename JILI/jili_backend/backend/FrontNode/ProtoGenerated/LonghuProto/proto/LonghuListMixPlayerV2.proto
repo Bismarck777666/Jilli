@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.LonghuProto";
+
+message LonghuListMixPlayerV2{
+    int32 no = 1;
+    string account = 2;
+    string nickname = 3;
+    int32 gameID = 4;
+    double win = 5;
+    int64 createTime = 6;
+}

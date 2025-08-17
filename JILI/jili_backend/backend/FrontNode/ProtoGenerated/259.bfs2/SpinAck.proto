@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package Jili.Protocols.bfs2;
+
+message SpinAck {
+	repeated RoundInfo RoundQueue = 1;
+	repeated bool HitFGX3X5Col = 2;
+	double FreeTotalWin = 3;
+	double TotalWin = 4;
+	string ShowIndex = 5;
+	double NowMoney = 6;
+	int32 AckType = 7;
+	double Bet = 8;
+	double RTP = 9;
+}
+ 
+message RoundInfo{
+	repeated Column PlateSymbolExtend = 1;
+	repeated AwardData AwardDataVec = 2;
+	int32 AwardTypeFlag = 3;
+	int32 FreeRemainRound = 4;
+	int32 FreeNowRound = 5;
+	int32 FreeTotalRound = 6;
+	double RoundWin = 7;
+	repeated int32 ColumnLength = 8;
+	repeated bool ArrowTag = 9;
+	repeated bool GoldArrowTag = 10;
+	int32 HitStampCol  = 11;
+	repeated int32 StampedeSymbols = 12;
+	repeated Column PlateSymbolLog  = 13;
+	repeated int32 LastLength = 14;
+	bool MaxFlag = 15;
+	 
+}
+
+message Column{
+	repeated int32 Row = 1;
+}
+message AwardData{
+	int32 Symbol = 1;
+	int32 Count = 2;
+	int32 Line= 3;
+	double Mult = 4;
+	double Win  = 5;
+}

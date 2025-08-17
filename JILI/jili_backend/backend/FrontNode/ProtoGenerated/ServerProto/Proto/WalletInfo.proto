@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "Jili.Protocols.Common";
+
+message WalletInfo{
+	int32 currencyNumber = 1;
+	string currencyName = 2;
+	string currencySymbol = 3;
+	double coin = 4;
+	repeated double bet = 5;
+	double unit = 6;
+	double ratio = 7;
+	double rate = 8;
+	double upper = 9;
+	double lower = 10;
+	double cycle = 11;
+	int32 decimal = 12;
+}

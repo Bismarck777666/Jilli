@@ -1,0 +1,22 @@
+<html>
+
+<head>
+  <script>
+    let url = new URL(location.href);
+    let hdList = ["979", "550", "1613", "1605"];
+    let apiId = url.searchParams.get("apiId");
+    let visionType = url.searchParams.get("visionType");
+    if (hdList.includes(apiId) || visionType == "1") {
+      url.pathname = "/mpt_hd/";
+      window.location.replace(url.href);
+    }
+    else {
+      url.pathname = "/mpt_ori/";
+      window.location.replace(url.href);
+    }
+  </script>
+</head>
+
+<body></body>
+
+</html>
